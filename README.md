@@ -1,5 +1,16 @@
-# free-socks4-proxies-noauth
-List of free Socks4 proxies in json format, for [Bruteforce-RSPS](https://github.com/KaiBurton/Bruteforce-RSPS) & [718 Cheat Client (Final)](https://github.com/KaiBurton/718-Cheat-Client-Final).
+# 🎁 SOCKS Proxies (Automatically Updated)
+
+### About
+Free list of SOCKS proxies in json format, for [Bruteforce-RSPS](https://github.com/KaiBurton/Bruteforce-RSPS) & [718 Cheat Client (Final)](https://github.com/KaiBurton/718-Cheat-Client-Final). 
+
+Can be used for any application that supports SOCKS.
+```yaml
+— IP:PORT
+— No Authentication Required
+— Free Proxy
+— SOCKS4 & SOCKS5
+— 4153 & 4145 = AVG/FAST
+```
 
 ## 2021-JUL [6K-SORTED]
 
@@ -31346,4 +31357,4 @@ List of free Socks4 proxies in json format, for [Bruteforce-RSPS](https://github
 }
 ```
 
-Thx Co Pure Gs - Sort miester! <3
+Thx Co Pure Gs - Sort miester! 💟
