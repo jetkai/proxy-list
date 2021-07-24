@@ -1,9 +1,11 @@
 # 🎁 SOCKS & HTTP Proxies (Automatically Updated)
 
 ### About
-Free list of SOCKS proxies in json format, for [Bruteforce-RSPS](https://github.com/KaiBurton/Bruteforce-RSPS) & [718 Cheat Client (Final)](https://github.com/KaiBurton/718-Cheat-Client-Final). 
+Free list of SOCKS & HTTP proxies in json & txt format. Updated every 6 hours. 
 
-Can be used for any application that supports SOCKS.
+Additionally works for [Bruteforce-RSPS](https://github.com/KaiBurton/Bruteforce-RSPS) & [718 Cheat Client (Final)](https://github.com/KaiBurton/718-Cheat-Client-Final). 
+
+Can be used for any application that supports SOCKS4/SOCKS5 & HTTP/HTTPS.
 ```yaml
 — IP:PORT
 — No Authentication Required
@@ -12,7 +14,7 @@ Can be used for any application that supports SOCKS.
 — 4153 & 4145 = AVG/FAST
 ```
 
-## [SAMPLE PROXIES] - [July 24 2021 | 08:33:15]
+# [SAMPLE PROXIES] - [July 24 2021 | 08:38:56]
 
 ## SOCKS4
 ```yaml
@@ -45,7 +47,8 @@ Can be used for any application that supports SOCKS.
 213.134.0.126:5678
 78.83.100.7:5678
 212.39.114.139:5678
-178.77.245.116:5678```
+178.77.245.116:5678
+```
 
 ## SOCKS5
 ```yaml
@@ -78,7 +81,8 @@ Can be used for any application that supports SOCKS.
 98.162.25.23:4145
 98.185.83.111:4145
 24.249.199.4:4145
-98.185.83.121:4145```
+98.185.83.121:4145
+```
 
 ## HTTP
 ```yaml
@@ -111,7 +115,8 @@ Can be used for any application that supports SOCKS.
 45.229.189.249:999
 83.229.8.9:3128
 41.33.179.195:8080
-180.178.97.90:8080```
+180.178.97.90:8080
+```
 
 ## HTTPS
 ```yaml
@@ -144,7 +149,8 @@ Can be used for any application that supports SOCKS.
 188.166.162.1:3128
 180.178.97.90:8080
 79.143.87.136:9090
-177.11.236.106:8080```
+177.11.236.106:8080
+```
 
 
 
