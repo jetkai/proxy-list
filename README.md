@@ -1,19 +1,44 @@
-# 🎁 SOCKS & HTTP Proxies (Automatically Updated)
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/KaiBurton/free-proxies-autoupdated?style=for-the-badge
+[contributors-url]: https://github.com/KaiBurton/free-proxies-autoupdated/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/KaiBurton/free-proxies-autoupdated?style=for-the-badge
+[forks-url]: https://github.com/KaiBurton/free-proxies-autoupdated/network/members
+[stars-shield]: https://img.shields.io/github/stars/KaiBurton/free-proxies-autoupdated?style=for-the-badge
+[stars-url]: https://github.com/KaiBurton/free-proxies-autoupdated/stargazers
+[issues-shield]: https://img.shields.io/github/issues/KaiBurton/free-proxies-autoupdated?style=for-the-badge
+[issues-url]: https://github.com/KaiBurton/free-proxies-autoupdated/issues
+[license-shield]: https://img.shields.io/github/license/KaiBurton/free-proxies-autoupdated?style=for-the-badge
+[license-url]: https://github.com/KaiBurton/free-proxies-autoupdated/blob/main/LICENSE
+[commit-shield]: https://img.shields.io/github/last-commit/KaiBurton/free-proxies-autoupdated?style=for-the-badge
+[commit-url]: https://github.com/KaiBurton/free-proxies-autoupdated/commits/main
+
+# 🎁 SOCKS & HTTP Proxies // Tested & Automatically Updated
+
+[![Commits][commit-shield]][commit-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Forks][forks-shield]][forks-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
 ### About
-Free list of SOCKS & HTTP proxies in json & txt format. Updated every 6 hours. 
+Free list of tested SOCKS & HTTP proxies in json & txt format. These proxies are tested 4x/day (every 6 hours) and have made a successful socket connection, and can write & read data. These proxies can be used by any application that supports SOCKS4, SOCKS5, HTTP or HTTPS.
 
-Can be used by any application that supports SOCKS4/SOCKS5 & HTTP/HTTPS.
-
-Additionally works for [Bruteforce-RSPS](https://github.com/KaiBurton/Bruteforce-RSPS) & [718 Cheat Client (Final)](https://github.com/KaiBurton/718-Cheat-Client-Final). 
+Additionally works for Java Apps such as [Bruteforce-RSPS](https://github.com/KaiBurton/Bruteforce-RSPS) & [718 Cheat Client (Final)](https://github.com/KaiBurton/718-Cheat-Client-Final). 
 
 ```yaml
-— IP:PORT
+— Free Proxies
 — No Authentication Required
-— Free Proxies (Tested through Socket Connection)
+— Tested every 6 hours (socket connection)
+— IP:PORT
 — SOCKS4, SOCKS5, HTTP & HTTPS
-— 4153 & 4145 = AVG/FAST
+— Port 4153 & 4145 = FAST
 ```
+
+- **All Proxies (Direct URL)**
+  - [proxies.json](https://github.com/KaiBurton/free-proxies-autoupdated/blob/main/proxies.json)
+  - [proxies.txt](https://github.com/KaiBurton/free-proxies-autoupdated/blob/main/proxies.txt)
 
 # [SAMPLE PROXIES] - [July 24 2021 | 09:40:27]
 
