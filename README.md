@@ -37,8 +37,8 @@ Additionally works for Java Apps such as [Bruteforce-RSPS](https://github.com/Ka
 ```
 
 - **All Proxies (Direct URL)**
-  - [proxies.json](https://github.com/KaiBurton/free-proxies-autoupdated/blob/main/proxies.json)
-  - [proxies.txt](https://github.com/KaiBurton/free-proxies-autoupdated/blob/main/proxies.txt)
+  - [proxies.json](https://raw.githubusercontent.com/KaiBurton/free-proxies-autoupdated/main/proxies.json)
+  - [proxies.txt](https://raw.githubusercontent.com/KaiBurton/free-proxies-autoupdated/main/proxies.txt)
 
 # [SAMPLE PROXIES] - [July 24 2021 | 09:40:27]
 
