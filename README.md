@@ -13,7 +13,7 @@
 [commit-shield]: https://img.shields.io/github/last-commit/KaiBurton/free-proxies-autoupdated?style=for-the-badge
 [commit-url]: https://github.com/KaiBurton/free-proxies-autoupdated/commits/main
 
-# 🎁 SOCKS & HTTP Proxies // Tested & Automatically Updated
+# 🎁 SOCKS & HTTP Proxies // Tested & Auto-Updated
 
 [![Commits][commit-shield]][commit-url]
 [![Contributors][contributors-shield]][contributors-url]
@@ -25,7 +25,7 @@
 ### About
 Free list of tested SOCKS & HTTP proxies in json & txt format. These proxies are tested 4x/day (every 6 hours) and have made a successful socket connection, and can write & read data. These proxies can be used by any application that supports SOCKS4, SOCKS5, HTTP or HTTPS.
 
-Additionally works for Java Apps such as [Bruteforce-RSPS](https://github.com/KaiBurton/Bruteforce-RSPS) & [718 Cheat Client (Final)](https://github.com/KaiBurton/718-Cheat-Client-Final). 
+Additionally works for Java Apps such as [Bruteforce-RSPS](https://github.com/KaiBurton/Bruteforce-RSPS), [JaySyiPker](https://github.com/JayArrowz/JaySyiPker) & [718 Cheat Client (Final)](https://github.com/KaiBurton/718-Cheat-Client-Final). 
 
 ```yaml
 — Free Proxies
@@ -39,6 +39,8 @@ Additionally works for Java Apps such as [Bruteforce-RSPS](https://github.com/Ka
 - **All Proxies (Direct URL)**
   - [proxies.json](https://raw.githubusercontent.com/KaiBurton/free-proxies-autoupdated/main/proxies.json)
   - [proxies.txt](https://raw.githubusercontent.com/KaiBurton/free-proxies-autoupdated/main/proxies.txt)
+
+---
 
 # [SAMPLE PROXIES] - [July 25 2021 | 10:56:39]
 
