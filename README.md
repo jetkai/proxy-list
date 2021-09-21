@@ -23,14 +23,14 @@
 [![MIT License][license-shield]][license-url]
 
 ### About
-Free list of tested SOCKS & HTTP proxies in json & txt format. These proxies are tested 4x/day (every 6 hours) and have made a successful socket connection, and can write & read data. These proxies can be used by any application that supports SOCKS4, SOCKS5, HTTP or HTTPS. Proxies are tested against OVH & other EU/US hosting providers.
+Free list of tested SOCKS & HTTP proxies in json & txt format. These proxies are tested ~7x/day (every 3½ hours) and have made a successful socket connection, and can write & read data. These proxies can be used by any application that supports SOCKS4, SOCKS5, HTTP or HTTPS. Proxies are tested against OVH & other EU/US hosting providers.
 
 Additionally works for Java Apps such as [Bruteforce-RSPS](https://github.com/KaiBurton/Bruteforce-RSPS), [JaySyiPker](https://github.com/JayArrowz/JaySyiPker) & [718 Cheat Client (Final)](https://github.com/KaiBurton/718-Cheat-Client-Final). 
 
 ```yaml
 — Free Proxies
 — No Authentication Required
-— Tested every 6 hours (socket connection)
+— Tested every 3½ hours (socket connection)
 — IP:PORT
 — SOCKS4, SOCKS5, HTTP & HTTPS
 — Port 4153 & 4145 = FAST
