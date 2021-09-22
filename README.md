@@ -42,58 +42,58 @@ Proxies are tested against OVH & other EU/US hosting providers. Works for any ap
 
 ---
 
-# [SAMPLE PROXIES] - [September 22 2021 | 11:46:45]
+# [SAMPLE PROXIES] - [September 22 2021 | 11:54:02]
 
-## [SOCKS4 (3558/3558)](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies-socks4.txt)
+## [SOCKS4 (3386/3386)](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies-socks4.txt)
 ```yaml
 1.9.164.242:35471
 1.9.165.67:4153
 1.9.167.35:60489
 1.9.167.36:60489
-1.9.213.114:4153
+1.10.140.43:4145
+1.10.189.133:50855
 1.20.95.95:5678
 1.20.96.156:4153
 1.20.96.164:4153
 1.20.99.41:5678
-1.20.184.75:4153
-1.20.220.79:4145
-1.32.59.217:31981
+1.32.57.85:5678
+1.53.137.164:4145
 1.53.137.220:4145
 1.55.241.4:4145
 1.71.133.58:5678
+1.179.130.201:4153
+1.179.145.101:33109
 1.179.147.5:52210
 1.179.148.9:36476
 1.179.172.45:31225
+1.179.173.114:4153
 1.179.181.213:30500
 1.179.183.73:61468
 1.179.202.33:5678
-1.186.40.9:39651
 1.186.40.157:39651
+1.186.46.36:5678
 1.186.82.4:5678
 1.186.213.67:5678
 1.186.246.107:45091
 1.212.181.131:4145
-1.220.145.45:4145
-2.40.15.50:1080
-2.135.223.134:5678
 ```
 
-## [SOCKS5 (0/3558)](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies-socks5.txt)
+## [SOCKS5 (0/3386)](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies-socks5.txt)
 ```yaml
 
 ```
 
-## [HTTP (0/3558)](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies-http.txt)
+## [HTTP (0/3386)](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies-http.txt)
 ```yaml
 
 ```
 
-## [HTTPS (0/3558)](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies-https.txt)
+## [HTTPS (0/3386)](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies-https.txt)
 ```yaml
 
 ```
 
-## [ARCHIVE (3558/60847)](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/working-proxies-history.json)
+## [ARCHIVE (3386/60847)](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/working-proxies-history.json)
 ```yaml
 1.0.132.249:4153
 1.0.133.89:4153
