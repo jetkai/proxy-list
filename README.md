@@ -1,19 +1,19 @@
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/KaiBurton/free-proxies-autoupdated?style=for-the-badge
-[contributors-url]: https://github.com/KaiBurton/free-proxies-autoupdated/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/KaiBurton/free-proxies-autoupdated?style=for-the-badge
-[forks-url]: https://github.com/KaiBurton/free-proxies-autoupdated/network/members
-[stars-shield]: https://img.shields.io/github/stars/KaiBurton/free-proxies-autoupdated?style=for-the-badge
-[stars-url]: https://github.com/KaiBurton/free-proxies-autoupdated/stargazers
-[issues-shield]: https://img.shields.io/github/issues/KaiBurton/free-proxies-autoupdated?style=for-the-badge
-[issues-url]: https://github.com/KaiBurton/free-proxies-autoupdated/issues
-[license-shield]: https://img.shields.io/github/license/KaiBurton/free-proxies-autoupdated?style=for-the-badge
-[license-url]: https://github.com/KaiBurton/free-proxies-autoupdated/blob/main/LICENSE
-[commit-shield]: https://img.shields.io/github/last-commit/KaiBurton/free-proxies-autoupdated?style=for-the-badge
-[commit-url]: https://github.com/KaiBurton/free-proxies-autoupdated/commits/main
+[contributors-shield]: https://img.shields.io/github/contributors/jetkai/proxy-list?style=for-the-badge
+[contributors-url]: https://github.com/jetkai/proxy-list/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jetkai/proxy-list?style=for-the-badge
+[forks-url]: https://github.com/jetkai/proxy-list/network/members
+[stars-shield]: https://img.shields.io/github/stars/jetkai/proxy-list?style=for-the-badge
+[stars-url]: https://github.com/jetkai/proxy-list/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jetkai/proxy-list?style=for-the-badge
+[issues-url]: https://github.com/jetkai/proxy-list/issues
+[license-shield]: https://img.shields.io/github/license/jetkai/proxy-list?style=for-the-badge
+[license-url]: https://github.com/jetkai/proxy-list/blob/main/LICENSE
+[commit-shield]: https://img.shields.io/github/last-commit/jetkai/proxy-list?style=for-the-badge
+[commit-url]: https://github.com/jetkai/proxy-list/commits/main
 
-# 🎁 SOCKS & HTTP Proxies // Tested & Auto-Updated
+# 🎁 SOCKS & HTTP PROXIES // ONLINE & READY
 
 [![Commits][commit-shield]][commit-url]
 [![Contributors][contributors-shield]][contributors-url]
@@ -23,28 +23,28 @@
 [![MIT License][license-shield]][license-url]
 
 ### About
-Free list of tested SOCKS & HTTP proxies in json & txt format. These proxies are tested ~7x/day (every 3½ hours) and have made a successful socket connection, and can write & read data. These proxies can be used by any application that supports SOCKS4, SOCKS5, HTTP or HTTPS. Proxies are tested against OVH & other EU/US hosting providers.
+This is a free list of tested SOCKS & HTTP proxies in json, txt & csv format. These proxies are tested ~7x/day (every 3½ hours), they have been verified to write & read data <**AT THE TIME OF TESTING**>. I compile this data using my [ProxyBuilder](https://github.com/jetkai/ProxyBuilder) application.
 
-Additionally works for Java Apps such as [Bruteforce-RSPS](https://github.com/KaiBurton/Bruteforce-RSPS), [JaySyiPker](https://github.com/JayArrowz/JaySyiPker) & [718 Cheat Client (Final)](https://github.com/KaiBurton/718-Cheat-Client-Final). 
+Proxies are tested against OVH & other EU/US hosting providers. Works for any application that can establish a socket connection, such as these Java Apps [Bruteforce-RSPS](https://github.com/KaiBurton/Bruteforce-RSPS), [JaySyiPker](https://github.com/JayArrowz/JaySyiPker) & [718 Cheat Client (Final)](https://github.com/KaiBurton/718-Cheat-Client-Final). 
 
 ```yaml
-— Free Proxies
-— No Authentication Required
-— Tested every 3½ hours (socket connection)
-— IP:PORT
-— SOCKS4, SOCKS5, HTTP & HTTPS
-— Port 4153 & 4145 = FAST
+::Checked & Tested Every 3½ Hours (Socket Connection):
+::SOCKS4, SOCKS5, HTTP & HTTPS:
+::No Authentication Required:
+::Port 4153 // 4145 = FAST:
+::JSON, TXT & CSV Format:
 ```
 
-- **All Proxies (Direct URL)**
-  - [proxies.json](https://raw.githubusercontent.com/KaiBurton/free-proxies-autoupdated/main/proxies.json)
-  - [proxies.txt](https://raw.githubusercontent.com/KaiBurton/free-proxies-autoupdated/main/proxies.txt)
+- **All Online Proxies (Direct URL)**
+  - [proxies.json](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies.json)
+  - [proxies.txt](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies.txt)
+  - [proxies.csv](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies.csv)
 
 ---
 
 # [SAMPLE PROXIES] - [September 22 2021 | 01:31:01]
 
-## [SOCKS4 (5943/10254)](https://raw.githubusercontent.com/KaiBurton/free-proxies-autoupdated/main/proxies-socks4.txt)
+## [SOCKS4 (5943/10254)](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies-socks4.txt)
 ```yaml
 173.230.67.80:10801
 176.114.244.151:33722
@@ -78,7 +78,7 @@ Additionally works for Java Apps such as [Bruteforce-RSPS](https://github.com/Ka
 154.73.52.22:5678
 ```
 
-## [SOCKS5 (387/10254)](https://raw.githubusercontent.com/KaiBurton/free-proxies-autoupdated/main/proxies-socks5.txt)
+## [SOCKS5 (387/10254)](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies-socks5.txt)
 ```yaml
 192.111.129.150:4145
 151.106.34.139:1080
@@ -112,7 +112,7 @@ Additionally works for Java Apps such as [Bruteforce-RSPS](https://github.com/Ka
 192.252.209.155:14455
 ```
 
-## [HTTP (1796/10254)](https://raw.githubusercontent.com/KaiBurton/free-proxies-autoupdated/main/proxies-http.txt)
+## [HTTP (1796/10254)](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies-http.txt)
 ```yaml
 45.167.125.129:9991
 158.177.253.24:80
@@ -146,7 +146,7 @@ Additionally works for Java Apps such as [Bruteforce-RSPS](https://github.com/Ka
 175.106.18.201:38708
 ```
 
-## [HTTPS (2128/10254)](https://raw.githubusercontent.com/KaiBurton/free-proxies-autoupdated/main/proxies-https.txt)
+## [HTTPS (2128/10254)](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies-https.txt)
 ```yaml
 158.177.253.24:80
 64.124.38.142:8080
