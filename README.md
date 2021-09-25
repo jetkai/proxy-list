@@ -22,10 +22,42 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-### About
-This is a free list of tested SOCKS & HTTP proxies in json, txt & csv format. These proxies are tested ~12x/day (every 2 hours), they have been verified to write & read data <**AT THE TIME OF TESTING**>. I compile this data using my [ProxyBuilder](https://github.com/jetkai/ProxyBuilder) application.
+## About This Project & The Proxies
+This repository contains a free list of tested SOCKS4/5 & HTTP/S proxies in -> **JSON**, **TXT** & **CSV** format. 
 
-Proxies are tested against OVH & other EU/US hosting providers. Works for any application that can establish a socket connection, such as these Java Apps [Bruteforce-RSPS](https://github.com/KaiBurton/Bruteforce-RSPS), [JaySyiPker](https://github.com/JayArrowz/JaySyiPker) & [718 Cheat Client (Final)](https://github.com/KaiBurton/718-Cheat-Client-Final). 
+### Testing:
+
+These proxies are tested ~12x/day (every 2 hours) against OVH & other EU/US hosting providers, they have been verified to write & read data <**AT THE TIME OF TESTING**>.
+
+[Source Code](https://github.com/jetkai/ProxyBuilder/blob/main/src/main/kotlin/spb/net/proxy/ProxyTester.kt)
+```kotlin
+    private fun useSocksProxy(serverAddress: String?, serverPort: Int): ClientSocket? {
+        val proxy = Proxy(Proxy.Type.SOCKS, InetSocketAddress(proxyAddress, proxyPort))
+        val socket = Socket(proxy)
+        if(socks4)
+            forceSocks4(socket)
+        try {
+            socket.soTimeout = 3000
+            socket.tcpNoDelay = true
+            socket.connect(InetSocketAddress(serverAddress, serverPort))
+        } catch (e : IOException) {
+            socket.close()
+        }
+        if(socket.isClosed)
+            return null
+        return ClientSocket().init(socket)
+    }
+```
+
+### Proxy Formatting:
+
+These proxies are scraped from various sources & I compile this data using my [ProxyBuilder](https://github.com/jetkai/ProxyBuilder) application. Proxies are sorted from lowest to highest 0-255 & duplicated proxies are removed — the only exception is if an IP has a different port open, which is also a working proxy tunnel <**Less than 1% of the total proxies at the time of testing**>.
+
+```IP:Port -> 1.0.132.249:4153```
+
+### Compatability:
+
+Proxies work for any application that can establish a socket connection, such as... An application that has proxy support (FireFox, Chrome), or as an example, these Java Apps -> [JaySyiPker](https://github.com/JayArrowz/JaySyiPker), [Bruteforce-RSPS](https://github.com/jetkai/Bruteforce-RSPS) & [718 Cheat Client (Final)](https://github.com/jetkai/718-Cheat-Client-Final).
 
 ```yaml
 ::Checked & Tested Every 2 Hours (Socket Connection):
@@ -33,12 +65,22 @@ Proxies are tested against OVH & other EU/US hosting providers. Works for any ap
 ::No Authentication Required:
 ::Port 4153 // 4145 = FAST:
 ::JSON, TXT & CSV Format:
+::No Dupes*:
 ```
+### ProxyList Links (Direct URL):
 
-- **All Online Proxies (Direct URL)**
-  - [proxies.json](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies.json)
-  - [proxies.txt](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies.txt)
-  - [proxies.csv](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies.csv)
+- _Online Proxies:_
+    - **JSON** -> [proxies.json](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies.json)
+    - **TXT** -> [proxies.txt](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies.txt)
+    - **CSV** -> [proxies.csv](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies.csv)
+- _Online/Offline Proxies (Archive):_
+  - **JSON** -> [working-proxies-history.json](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/working-proxies-history.json)
+  - **TXT** -> [working-proxies-history.txt](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/working-proxies-history.txt)
+  - **CSV** -> [working-proxies-history.csv](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/working-proxies-history.csv)
+
+### Next Updates:
+
+Further updates will be made to this project throughout the year, the next update I am working on will keep a record of proxy up-time, location, isp & speed.
 
 ---
 
@@ -216,4 +258,4 @@ Proxies are tested against OVH & other EU/US hosting providers. Works for any ap
 
 
 
-Thx Co Pure Gs - Sort miester! 💟
+Thx Co Pure Gs - Sort Meister! 💟
