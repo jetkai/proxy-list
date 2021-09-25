@@ -23,12 +23,12 @@
 [![MIT License][license-shield]][license-url]
 
 ### About
-This is a free list of tested SOCKS & HTTP proxies in json, txt & csv format. These proxies are tested ~7x/day (every 3½ hours), they have been verified to write & read data <**AT THE TIME OF TESTING**>. I compile this data using my [ProxyBuilder](https://github.com/jetkai/ProxyBuilder) application.
+This is a free list of tested SOCKS & HTTP proxies in json, txt & csv format. These proxies are tested ~12x/day (every 2 hours), they have been verified to write & read data <**AT THE TIME OF TESTING**>. I compile this data using my [ProxyBuilder](https://github.com/jetkai/ProxyBuilder) application.
 
 Proxies are tested against OVH & other EU/US hosting providers. Works for any application that can establish a socket connection, such as these Java Apps [Bruteforce-RSPS](https://github.com/KaiBurton/Bruteforce-RSPS), [JaySyiPker](https://github.com/JayArrowz/JaySyiPker) & [718 Cheat Client (Final)](https://github.com/KaiBurton/718-Cheat-Client-Final). 
 
 ```yaml
-::Checked & Tested Every 3½ Hours (Socket Connection):
+::Checked & Tested Every 2 Hours (Socket Connection):
 ::SOCKS4, SOCKS5, HTTP & HTTPS:
 ::No Authentication Required:
 ::Port 4153 // 4145 = FAST:
