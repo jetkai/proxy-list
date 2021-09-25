@@ -13,7 +13,7 @@
 [commit-shield]: https://img.shields.io/github/last-commit/jetkai/proxy-list?style=for-the-badge
 [commit-url]: https://github.com/jetkai/proxy-list/commits/main
 
-# 🎁 SOCKS & HTTP PROXIES // ONLINE & READY
+# 🎁 SOCKS4/5 & HTTP/S PROXIES // ONLINE & READY
 
 [![Commits][commit-shield]][commit-url]
 [![Contributors][contributors-shield]][contributors-url]
