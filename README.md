@@ -27,7 +27,7 @@ This repository contains a free list of tested SOCKS4/5 & HTTP/S proxies in -> *
 
 ### Testing:
 
-These proxies are tested ~12x/day (every 2 hours) against OVH & other EU/US hosting providers, they have been verified to write & read data <**AT THE TIME OF TESTING**>.
+These proxies are tested ~12x/day (every 2 hours) against OVH & other EU/US hosting providers, they have been verified to write & read data <**AT THE TIME OF TESTING**>. No authentication is required to connect to these proxies.
 
 [Source Code](https://github.com/jetkai/ProxyBuilder/blob/main/src/main/kotlin/spb/net/proxy/ProxyTester.kt)
 ```kotlin
@@ -59,14 +59,6 @@ These proxies are scraped from various sources & I compile this data using my [P
 
 Proxies work for any application that can establish a socket connection, such as... An application that has proxy support (FireFox, Chrome), or as an example, these Java Apps -> [JaySyiPker](https://github.com/JayArrowz/JaySyiPker), [Bruteforce-RSPS](https://github.com/jetkai/Bruteforce-RSPS) & [718 Cheat Client (Final)](https://github.com/jetkai/718-Cheat-Client-Final).
 
-```yaml
-::Checked & Tested Every 2 Hours (Socket Connection):
-::SOCKS4, SOCKS5, HTTP & HTTPS:
-::No Authentication Required:
-::Port 4153 // 4145 = FAST:
-::JSON, TXT & CSV Format:
-::No Dupes*:
-```
 ### ProxyList Links (Direct URL):
 
 - _Online Proxies:_
