@@ -23,11 +23,11 @@
 [![MIT License][license-shield]][license-url]
 
 ## 📰About This Project & The Proxies:
-This repository contains a free list of tested SOCKS4/5 & HTTP/S proxies in -> **JSON**, **TXT** & **CSV** format. 
+This repository contains a free list of tested SOCKS4/5 & HTTP/S proxies in -> **JSON**, **TXT** & **CSV** format. No authentication is required to connect to these proxies.
 
 ## 👩‍💻Proxy Testing:
 
-These proxies are tested ~12x/day (every 2 hours) against EU/US hosting providers - **see below**, they have been verified to write & read data <**AT THE TIME OF TESTING**>. No authentication is required to connect to these proxies.
+These proxies are tested ~12x/day (every 2 hours) against EU/US hosting providers - **see below**, they have been verified to write & read data <**AT THE TIME OF TESTING**>.
 
 **Hosting Provider**|**Country**|**Continent**
 :-----:|:-----:|:-----:
@@ -45,7 +45,7 @@ Microsoft Azure|Hong Kong|AS
         if(socks4)
             forceSocks4(socket)
         try {
-            socket.soTimeout = Constants.CONNECTION_TIMEOUT
+            socket.soTimeout = Constants.CONNECTION_TIMEOUT //3000ms
             socket.tcpNoDelay = true
             socket.connect(InetSocketAddress(serverAddress, serverPort), Constants.CONNECTION_TIMEOUT)
         } catch (e : IOException) {
@@ -53,7 +53,7 @@ Microsoft Azure|Hong Kong|AS
         }
         if(socket.isClosed)
             return null
-        return ClientSocket().init(socket) // Read/Write Data Function
+        return ClientSocket().init(socket) //Read/Write Data Function
     }
 ```
 
@@ -91,7 +91,12 @@ Most Proxies By Provider|Bharat Sanchar Nigam Ltd (2449)
 Most Proxies By Port|5678 (33610)
 Most Proxies By Protocol|SOCKS4 (43928)
 Most Proxies By Continent|Asia (27600)
-Download Results (Excel) | [(analysis.xlsx)](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/csv/working-proxies-history.csv)
+
+**Name**|**Link**
+:-----:|:-----:
+Graphs, Tables & Data (Excel) | [(analysis.xlsx)](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/csv/working-proxies-history.csv)
+Raw Data (JSON) | [(archive-geo.json)](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/json/working-proxies-history-geo-beautify.json)
+Raw Data (CSV) | [(archive-geo.csv)](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/csv/working-proxies-history-geo.csv)
 
 ![image](https://user-images.githubusercontent.com/26250917/135737945-c275ad3d-e086-4d3c-b593-a9096362e673.png)
 
