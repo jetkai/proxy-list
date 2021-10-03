@@ -23,7 +23,7 @@
 [![MIT License][license-shield]][license-url]
 
 ## 📰About This Project & The Proxies:
-This repository contains a free list of tested SOCKS4/5 & HTTP/S proxies in -> **JSON**, **TXT** & **CSV** format. No authentication is required to connect to these proxies.
+This repository contains a free list of tested SOCKS4/5 & HTTP/S proxies in -> **JSON**, **TXT** & **CSV** format. No authentication is required when connecting to these proxies.
 
 ## 👩‍💻Proxy Testing:
 
