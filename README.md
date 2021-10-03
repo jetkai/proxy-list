@@ -90,14 +90,14 @@ You can view/download this data below.
 
 **Query**|**Result**
 :-----:|:-----:
-Most Proxies By Country|Brazil (6719)
-Most Detected Proxies By Country|Brazil (4652)
-Most Proxies By Provider|Bharat Sanchar Nigam Ltd (2449)
-Most Proxies By Port|5678 (33610)
-Most Proxies By Protocol|SOCKS4 (43928)
-Most Proxies By Continent|Asia (27600)
+Most Proxies By Country|Brazil (6749)
+Most Detected Proxies By Country|Brazil (4680)
+Most Proxies By Provider|Bharat Sanchar Nigam Ltd (2455)
+Most Proxies By Port|5678 (33668)
+Most Proxies By Protocol|SOCKS4 (44037)
+Most Proxies By Continent|Asia (27864)
 
-**Name**|**Link**
+**Data Type**|**Link**
 :-----:|:-----:
 Graphs, Tables & Data (Excel) | [(analysis.xlsx)](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/xlsx/analysis.xlsx)
 Raw Data (JSON) | [(archive-geo.json)](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/json/working-proxies-history-geo-beautify.json)
@@ -105,7 +105,7 @@ Raw Data (CSV) | [(archive-geo.csv)](https://raw.githubusercontent.com/jetkai/pr
 Raw Data (XML) | [(archive-geo.xml)](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/xml/working-proxies-history-geo.xml)
 Raw Data (YAML) | [(archive-geo.yaml)](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/yaml/working-proxies-history-geo.yaml)
 
-![image](https://user-images.githubusercontent.com/26250917/135737945-c275ad3d-e086-4d3c-b593-a9096362e673.png)
+![image](https://user-images.githubusercontent.com/26250917/135766207-17d4c531-2738-4209-808e-82c04b871331.png)
 
 
 ## Next Updates:
