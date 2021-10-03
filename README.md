@@ -27,25 +27,33 @@ This repository contains a free list of tested SOCKS4/5 & HTTP/S proxies in -> *
 
 ### Testing:
 
-These proxies are tested ~12x/day (every 2 hours) against OVH & other EU/US hosting providers, they have been verified to write & read data <**AT THE TIME OF TESTING**>. No authentication is required to connect to these proxies.
+These proxies are tested ~12x/day (every 2 hours) against EU/US hosting providers - **see below**, they have been verified to write & read data <**AT THE TIME OF TESTING**>. No authentication is required to connect to these proxies.
+
+**Hosting Provider**|**Country**|**Continent**
+:-----:|:-----:|:-----:
+OVH|France|EU
+Amazon Web Services|United States|NA
+Oracle Cloud|United Kingdom|EU
+Microsoft Azure|Hong Kong|AS
 
 [Source Code](https://github.com/jetkai/ProxyBuilder/blob/main/src/main/kotlin/spb/net/proxy/ProxyTester.kt)
 ```kotlin
+    //SOCKS example (HTTP/S) is also supported
     private fun useSocksProxy(serverAddress: String?, serverPort: Int): ClientSocket? {
         val proxy = Proxy(Proxy.Type.SOCKS, InetSocketAddress(proxyAddress, proxyPort))
         val socket = Socket(proxy)
         if(socks4)
             forceSocks4(socket)
         try {
-            socket.soTimeout = 3000
+            socket.soTimeout = Constants.CONNECTION_TIMEOUT
             socket.tcpNoDelay = true
-            socket.connect(InetSocketAddress(serverAddress, serverPort))
+            socket.connect(InetSocketAddress(serverAddress, serverPort), Constants.CONNECTION_TIMEOUT)
         } catch (e : IOException) {
             socket.close()
         }
         if(socket.isClosed)
             return null
-        return ClientSocket().init(socket)
+        return ClientSocket().init(socket) // Read/Write Data Function
     }
 ```
 
@@ -62,13 +70,27 @@ Proxies work for any application that can establish a socket connection, such as
 ### ProxyList Links (Direct URL):
 
 - _Online Proxies:_
-    - **JSON** -> [proxies.json](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies.json)
-    - **TXT** -> [proxies.txt](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies.txt)
-    - **CSV** -> [proxies.csv](https://raw.githubusercontent.com/jetkai/proxy-list/main/proxies.csv)
+    - **JSON** -> [proxies.json](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/json/proxies.json)
+    - **TXT** -> [proxies.txt](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies.txt)
+    - **CSV** -> [proxies.csv](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/csv/proxies.csv)
 - _Online/Offline Proxies (Archive):_
-  - **JSON** -> [working-proxies-history.json](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/working-proxies-history.json)
-  - **TXT** -> [working-proxies-history.txt](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/working-proxies-history.txt)
-  - **CSV** -> [working-proxies-history.csv](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/working-proxies-history.csv)
+  - **JSON** -> [working-proxies-history.json](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/json/working-proxies-history.json)
+  - **TXT** -> [working-proxies-history.txt](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/txt/working-proxies-history.txt)
+  - **CSV** -> [working-proxies-history.csv](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/csv/working-proxies-history.csv)
+
+### Geolocation & Graphs (Weekly):
+**Query**|**Result**
+:-----:|:-----:
+Most Proxies By Country|Brazil (6719)
+Most Detected Proxies By Country|Brazil (4652)
+Most Proxies By Provider|Bharat Sanchar Nigam Ltd (2449)
+Most Proxies By Port|5678 (33610)
+Most Proxies By Protocol|SOCKS4 (43928)
+Most Proxies By Continent|Asia (27600)
+Download Results (Excel) | [(analysis.xlsx)](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/csv/working-proxies-history.csv)
+
+![image](https://user-images.githubusercontent.com/26250917/135737945-c275ad3d-e086-4d3c-b593-a9096362e673.png)
+
 
 ### Next Updates:
 
