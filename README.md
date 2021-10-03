@@ -1,26 +1,27 @@
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jetkai/proxy-list?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/jetkai/proxy-list?style=flat&logo=github
 [contributors-url]: https://github.com/jetkai/proxy-list/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jetkai/proxy-list?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/jetkai/proxy-list?style=flat&logo=github
 [forks-url]: https://github.com/jetkai/proxy-list/network/members
-[stars-shield]: https://img.shields.io/github/stars/jetkai/proxy-list?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/jetkai/proxy-list?style=flat&logo=github
 [stars-url]: https://github.com/jetkai/proxy-list/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jetkai/proxy-list?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/jetkai/proxy-list?style=flat&logo=github
 [issues-url]: https://github.com/jetkai/proxy-list/issues
-[license-shield]: https://img.shields.io/github/license/jetkai/proxy-list?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/jetkai/proxy-list?style=flat&logo=github
 [license-url]: https://github.com/jetkai/proxy-list/blob/main/LICENSE
-[commit-shield]: https://img.shields.io/github/last-commit/jetkai/proxy-list?style=for-the-badge
+[commit-shield]: https://img.shields.io/github/last-commit/jetkai/proxy-list?style=flat&logo=github
 [commit-url]: https://github.com/jetkai/proxy-list/commits/main
+[commit-activity]: https://img.shields.io/github/commit-activity/w/jetkai/proxy-list?style=flat&logo=github
+[commit-activity-url]: https://github.com/jetkai/proxy-list/commits/main
 
 # 🎁 SOCKS4/5 & HTTP/S PROXIES // ONLINE & READY
 
 [![Commits][commit-shield]][commit-url]
-[![Contributors][contributors-shield]][contributors-url]
+[![Commits][commit-activity]][commit-activity-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 ## 📰About This Project & The Proxies:
 This repository contains a free list of tested SOCKS4/5 & HTTP/S proxies in -> **JSON**, **TXT** & **CSV** format. No authentication is required when connecting to these proxies.
