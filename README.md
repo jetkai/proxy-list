@@ -22,10 +22,10 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-## About This Project & The Proxies
+## 📰About This Project & The Proxies:
 This repository contains a free list of tested SOCKS4/5 & HTTP/S proxies in -> **JSON**, **TXT** & **CSV** format. 
 
-### Testing:
+## 👩‍💻Proxy Testing:
 
 These proxies are tested ~12x/day (every 2 hours) against EU/US hosting providers - **see below**, they have been verified to write & read data <**AT THE TIME OF TESTING**>. No authentication is required to connect to these proxies.
 
@@ -57,17 +57,17 @@ Microsoft Azure|Hong Kong|AS
     }
 ```
 
-### Proxy Formatting:
+## 📝Proxy Formatting:
 
 These proxies are scraped from various sources & I compile this data using my [ProxyBuilder](https://github.com/jetkai/ProxyBuilder) application. Proxies are sorted from lowest to highest 0-255 & duplicated proxies are removed — the only exception is if an IP has a different port open, which is also a working proxy tunnel <**Less than 1% of the total proxies at the time of testing**>.
 
 ```IP:Port -> 1.0.132.249:4153```
 
-### Compatability:
+## ✔Compatability:
 
 Proxies work for any application that can establish a socket connection, such as... An application that has proxy support (FireFox, Chrome), or as an example, these Java Apps -> [JaySyiPker](https://github.com/JayArrowz/JaySyiPker), [Bruteforce-RSPS](https://github.com/jetkai/Bruteforce-RSPS) & [718 Cheat Client (Final)](https://github.com/jetkai/718-Cheat-Client-Final).
 
-### ProxyList Links (Direct URL):
+## 🔗ProxyList Links (Direct URL):
 
 - _Online Proxies:_
     - **JSON** -> [proxies.json](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/json/proxies.json)
@@ -78,7 +78,11 @@ Proxies work for any application that can establish a socket connection, such as
   - **TXT** -> [working-proxies-history.txt](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/txt/working-proxies-history.txt)
   - **CSV** -> [working-proxies-history.csv](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/csv/working-proxies-history.csv)
 
-### Geolocation & Graphs (Weekly):
+## 🌍Geolocation & Graphs (Weekly):
+Analytics are updated on a weekly basis and contains raw data, tables & graphs. 
+
+You can view/download this data below.
+
 **Query**|**Result**
 :-----:|:-----:
 Most Proxies By Country|Brazil (6719)
@@ -92,7 +96,7 @@ Download Results (Excel) | [(analysis.xlsx)](https://raw.githubusercontent.com/j
 ![image](https://user-images.githubusercontent.com/26250917/135737945-c275ad3d-e086-4d3c-b593-a9096362e673.png)
 
 
-### Next Updates:
+## Next Updates:
 
 Further updates will be made to this project throughout the year, the next update I am working on will keep a record of proxy up-time, location, isp & speed.
 
