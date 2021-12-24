@@ -114,99 +114,99 @@ Further updates will be made to this project throughout the year, the next updat
 
 ---
 
-# [SAMPLE PROXIES] - [December 24 2021 | 11:29:03]
+# [SAMPLE PROXIES] - [December 24 2021 | 01:29:03]
 
 ### Proxy Statistics:
 - _Online Proxies (By Protocol):_
-   - **SOCKS4** -> 1103
-   - **SOCKS5** -> 378
+   - **SOCKS4** -> 3541
+   - **SOCKS5** -> 330
    - **HTTP** -> 0
    - **HTTPS** -> 0
 
 - _Proxies (Total):_
-   - **Online Proxies (SOCKS4/5 + HTTP/S)** -> 1481
-   - **Unique Online Proxies** -> 1356
-   - **Unique Online/Offline Proxies (Archive)** -> 38534
+   - **Online Proxies (SOCKS4/5 + HTTP/S)** -> 3871
+   - **Unique Online Proxies** -> 3745
+   - **Unique Online/Offline Proxies (Archive)** -> 38537
 
-## [SOCKS4 (1103/1356)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks4.txt)
+## [SOCKS4 (3541/3745)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks4.txt)
 ```yaml
-1.2.187.111:4145
+1.0.162.181:4145
+1.4.195.114:4145
+1.9.167.36:60489
+1.9.213.114:4153
+1.10.141.220:37718
 1.10.189.133:50855
-1.20.220.79:4145
-1.83.154.35:4145
-1.179.145.101:33109
-1.179.147.5:52210
+1.20.96.164:4153
+1.20.184.75:4153
+1.20.198.8:4153
+1.20.198.9:4153
+1.20.198.10:4153
+1.20.227.66:4145
+1.20.235.153:5678
+1.32.57.85:5678
+1.53.137.84:4145
+1.53.137.164:4145
+1.55.241.4:4145
+1.117.102.103:1080
+1.179.130.201:4153
 1.179.151.165:31948
-1.186.40.177:39651
+1.179.172.45:31225
+1.179.183.73:61468
+1.186.46.36:5678
 1.186.82.4:5678
-1.186.213.67:5678
-3.141.13.98:5678
-5.2.180.254:4145
-5.56.133.204:4444
-5.58.47.25:3629
-5.141.81.106:44271
-5.152.86.46:14888
-5.153.140.180:4145
-5.172.188.90:5678
-5.178.193.43:1080
-5.188.64.79:5678
-13.58.88.184:5678
-13.58.223.158:5678
-14.23.124.132:1080
-14.63.1.108:4145
-14.224.172.179:5678
-14.232.160.247:10801
-18.166.177.241:10808
-18.216.32.60:5678
-20.106.106.250:1080
-20.210.80.237:1080
+1.186.139.9:39651
+1.212.181.131:4145
+1.220.145.45:4145
+2.136.195.109:5678
+2.139.162.80:4145
+2.183.8.145:4153
 ```
 
-## [SOCKS5 (378/1356)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks5.txt)
+## [SOCKS5 (330/3745)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks5.txt)
 ```yaml
 3.112.18.51:48540
 3.112.73.136:48540
+5.42.158.11:1080
+5.42.158.11:10800
 5.42.158.106:10800
 5.42.158.107:1080
+5.42.158.107:10800
 5.42.158.108:1080
-5.42.158.110:1080
+5.42.158.108:10800
+5.42.158.110:10800
 5.42.158.111:10800
 5.42.158.111:1080
 5.42.158.112:10800
-5.42.158.113:10800
 5.42.158.113:1080
-5.42.158.114:1080
+5.42.158.114:10800
 5.42.158.115:10800
-5.42.158.116:10800
 5.42.158.116:1080
+5.42.158.116:10800
+5.42.158.118:1080
 5.42.158.118:10800
-5.42.158.120:1080
+5.42.158.119:1080
+5.42.158.119:10800
+5.42.158.120:10800
+5.42.158.121:10800
 5.42.158.122:10800
 5.42.158.123:10800
-5.42.158.124:1080
+5.42.158.123:1080
 5.42.158.124:10800
+5.42.158.125:1080
 5.42.158.125:10800
-8.210.179.3:25170
-18.163.116.114:1080
-18.181.146.180:1088
-18.218.152.43:5555
-20.205.204.111:6666
-23.94.73.246:1080
-23.94.149.131:53335
-24.249.199.4:4145
 ```
 
-## [HTTP (0/1356)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt)
+## [HTTP (0/3745)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt)
 ```yaml
 
 ```
 
-## [HTTPS (0/1356)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-https.txt)
+## [HTTPS (0/3745)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-https.txt)
 ```yaml
 
 ```
 
-## [ARCHIVE (1356/38534)](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/txt/working-proxies-history.txt)
+## [ARCHIVE (3745/38537)](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/txt/working-proxies-history.txt)
 ```yaml
 1.0.132.249:4153
 1.0.133.89:4153
