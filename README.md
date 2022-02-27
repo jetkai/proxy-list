@@ -114,41 +114,157 @@ Further updates will be made to this project throughout the year, the next updat
 
 ---
 
-# [SAMPLE PROXIES] - [February 26 2022 | 11:29:04]
+# [SAMPLE PROXIES] - [February 27 2022 | 01:29:04]
 
 ### Proxy Statistics:
 - _Online Proxies (By Protocol):_
-   - **SOCKS4** -> 0
-   - **SOCKS5** -> 0
-   - **HTTP** -> 0
-   - **HTTPS** -> 0
+   - **SOCKS4** -> 4165
+   - **SOCKS5** -> 1085
+   - **HTTP** -> 1090
+   - **HTTPS** -> 1063
 
 - _Proxies (Total):_
-   - **Online Proxies (SOCKS4/5 + HTTP/S)** -> 0
-   - **Unique Online Proxies** -> 0
-   - **Unique Online/Offline Proxies (Archive)** -> 54811
+   - **Online Proxies (SOCKS4/5 + HTTP/S)** -> 7403
+   - **Unique Online Proxies** -> 6715
+   - **Unique Online/Offline Proxies (Archive)** -> 54852
 
-## [SOCKS4 (0/0)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks4.txt)
+## [SOCKS4 (4165/6715)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks4.txt)
 ```yaml
-
+1.4.195.114:4145
+1.4.214.148:5678
+1.9.27.217:4153
+1.9.164.242:35471
+1.9.213.114:4153
+1.10.133.149:4145
+1.10.140.43:4145
+1.10.141.220:37718
+1.10.189.133:50855
+1.20.95.95:5678
+1.20.96.164:4153
+1.20.104.76:4145
+1.20.168.45:5678
+1.20.184.75:4153
+1.20.220.79:4145
+1.20.227.66:4145
+1.20.235.153:5678
+1.32.57.85:5678
+1.32.59.217:31981
+1.53.137.84:4145
+1.55.241.4:4145
+1.83.154.35:4145
+1.179.130.201:4153
+1.179.147.5:52210
+1.179.148.9:36476
+1.179.151.165:31948
+1.179.173.114:4153
+1.179.186.68:1080
+1.179.186.71:1080
+1.186.40.2:39651
 ```
 
-## [SOCKS5 (0/0)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks5.txt)
+## [SOCKS5 (1085/6715)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks5.txt)
 ```yaml
-
+1.13.165.87:8080
+1.117.233.128:10800
+1.180.0.162:7302
+1.180.49.222:7302
+1.192.171.115:7302
+1.196.217.57:7302
+5.11.17.230:1080
+5.188.181.170:3080
+8.44.216.242:13333
+8.134.51.12:8889
+8.142.92.46:11080
+8.218.10.121:13020
+8.218.44.70:54256
+14.118.134.170:7302
+14.136.204.35:1088
+20.114.87.37:1080
+23.234.197.189:1080
+24.103.162.189:31337
+24.249.199.4:4145
+24.249.199.12:4145
+27.116.51.119:6667
+27.116.51.186:6667
+31.186.241.7:43722
+31.220.43.141:34839
+34.95.224.52:443
+34.134.60.185:443
+36.26.4.118:7302
+36.32.173.2:7302
+36.56.153.80:7302
+36.89.86.49:56845
 ```
 
-## [HTTP (0/0)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt)
+## [HTTP (1090/6715)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt)
 ```yaml
-
+1.1.189.58:8080
+1.1.220.100:8080
+1.13.165.87:8080
+1.180.156.226:65001
+1.186.85.46:80
+2.188.166.26:3128
+3.20.236.208:49205
+5.16.7.213:1256
+5.20.91.12:60792
+5.26.96.212:8080
+5.141.82.95:81
+8.134.51.12:8889
+8.208.91.118:8800
+8.208.91.118:8080
+8.208.91.118:8008
+8.214.41.50:80
+8.218.213.95:10809
+8.242.142.182:999
+13.59.34.132:443
+14.20.235.35:45770
+14.54.27.37:4003
+14.115.107.63:34100
+14.139.184.130:3128
+14.143.168.230:8080
+14.160.29.90:8080
+14.161.31.192:53281
+14.162.180.140:8080
+14.177.236.212:55443
+14.207.122.184:8080
+14.207.200.203:8080
 ```
 
-## [HTTPS (0/0)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-https.txt)
+## [HTTPS (1063/6715)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-https.txt)
 ```yaml
-
+1.1.189.58:8080
+1.2.252.65:8080
+1.32.59.217:47045
+1.179.136.98:8080
+1.179.144.41:8080
+1.180.156.226:65001
+1.186.85.38:1111
+1.186.85.46:80
+1.186.245.226:80
+2.184.4.68:6565
+2.184.4.70:6565
+3.20.236.208:49205
+5.16.0.97:1256
+5.16.0.174:8080
+5.16.7.213:1256
+5.59.136.230:8080
+5.141.82.95:81
+5.160.101.170:3128
+5.188.136.52:8080
+8.208.91.118:8000
+8.208.91.118:8081
+8.208.91.118:8080
+8.208.91.118:80
+8.208.91.118:3128
+12.218.209.130:53281
+13.59.34.132:443
+14.139.184.130:3128
+14.143.168.230:8080
+14.161.252.185:55443
+14.192.3.161:82
 ```
 
-## [ARCHIVE (0/54811)](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/txt/working-proxies-history.txt)
+## [ARCHIVE (6715/54852)](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/txt/working-proxies-history.txt)
 ```yaml
 1.0.132.249:4153
 1.0.133.89:4153
