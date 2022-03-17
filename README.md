@@ -114,41 +114,128 @@ Further updates will be made to this project throughout the year, the next updat
 
 ---
 
-# [SAMPLE PROXIES] - [March 17 2022 | 07:29:03]
+# [SAMPLE PROXIES] - [March 17 2022 | 09:29:02]
 
 ### Proxy Statistics:
 - _Online Proxies (By Protocol):_
-   - **SOCKS4** -> 0
-   - **SOCKS5** -> 0
-   - **HTTP** -> 0
+   - **SOCKS4** -> 803
+   - **SOCKS5** -> 157
+   - **HTTP** -> 620
    - **HTTPS** -> 0
 
 - _Proxies (Total):_
-   - **Online Proxies (SOCKS4/5 + HTTP/S)** -> 0
-   - **Unique Online Proxies** -> 0
-   - **Unique Online/Offline Proxies (Archive)** -> 8817
+   - **Online Proxies (SOCKS4/5 + HTTP/S)** -> 1580
+   - **Unique Online Proxies** -> 1534
+   - **Unique Online/Offline Proxies (Archive)** -> 8914
 
-## [SOCKS4 (0/0)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks4.txt)
+## [SOCKS4 (803/1534)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks4.txt)
+```yaml
+1.2.222.252:4145
+1.4.157.35:36202
+1.9.167.36:60489
+1.186.40.2:39651
+1.186.40.9:39651
+1.186.46.36:5678
+3.141.13.98:5678
+5.133.24.167:5678
+5.152.86.46:14888
+5.153.140.179:4145
+5.166.57.222:49710
+5.181.171.134:1085
+5.181.171.165:1085
+5.181.171.188:1085
+5.188.147.26:3629
+8.39.228.193:39593
+8.40.133.10:1099
+8.42.68.49:39593
+8.42.68.125:39593
+12.218.209.130:13326
+13.58.88.184:5678
+13.58.223.158:5678
+14.102.31.176:5678
+14.102.44.1:34047
+14.102.64.209:60616
+14.232.160.247:10801
+18.216.32.60:5678
+18.216.72.10:5678
+20.210.86.223:1080
+24.74.26.164:39593
+```
+
+## [SOCKS5 (157/1534)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks5.txt)
+```yaml
+5.11.17.230:1080
+24.249.199.4:4145
+24.249.199.12:4145
+27.116.51.119:6667
+34.95.224.52:443
+36.7.79.105:7302
+36.32.191.51:7302
+39.108.56.233:8080
+39.184.147.250:7302
+43.224.10.36:6667
+43.224.10.39:6667
+43.224.10.46:6667
+43.228.125.91:16489
+45.67.229.104:30003
+45.67.229.104:30002
+45.81.225.67:7052
+45.142.212.10:30001
+47.242.168.35:9090
+49.51.74.195:21127
+49.74.219.172:7302
+49.235.92.33:1080
+50.62.35.16:59816
+50.62.63.126:10230
+50.63.165.21:23859
+51.222.12.245:10084
+54.38.110.231:48325
+54.39.87.232:39721
+58.217.115.142:7302
+59.59.6.86:7302
+60.12.215.23:7302
+```
+
+## [HTTP (620/1534)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt)
+```yaml
+1.1.189.58:8080
+1.10.141.220:54620
+1.20.217.52:8080
+1.179.148.9:55636
+1.186.245.226:80
+3.20.236.208:49205
+5.56.133.132:3128
+5.139.161.156:55443
+5.149.219.201:8080
+5.160.91.130:3128
+14.102.13.193:8080
+14.139.184.130:3128
+14.177.236.212:55443
+18.216.72.10:49205
+18.216.136.190:9090
+18.222.17.49:49205
+24.43.140.138:8080
+31.10.2.149:8080
+31.173.94.93:43539
+31.204.180.44:53281
+34.101.127.131:8080
+36.37.177.186:8080
+36.67.152.213:11111
+36.89.212.251:8080
+36.89.212.254:8080
+36.91.68.150:8080
+36.92.70.209:8080
+36.92.134.71:999
+36.93.2.50:8080
+36.94.2.138:8080
+```
+
+## [HTTPS (0/1534)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-https.txt)
 ```yaml
 
 ```
 
-## [SOCKS5 (0/0)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks5.txt)
-```yaml
-
-```
-
-## [HTTP (0/0)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt)
-```yaml
-
-```
-
-## [HTTPS (0/0)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-https.txt)
-```yaml
-
-```
-
-## [ARCHIVE (0/8817)](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/txt/working-proxies-history.txt)
+## [ARCHIVE (1534/8914)](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/txt/working-proxies-history.txt)
 ```yaml
 1.0.132.249:4153
 1.0.133.100:51327
@@ -159,6 +246,7 @@ Further updates will be made to this project throughout the year, the next updat
 1.1.189.58:8080
 1.1.220.100:8080
 1.2.187.252:4145
+1.2.222.252:4145
 1.2.252.65:8080
 1.4.157.35:36202
 1.4.195.114:4145
@@ -179,7 +267,6 @@ Further updates will be made to this project throughout the year, the next updat
 1.20.217.52:8080
 1.20.220.79:4145
 1.20.227.66:4145
-1.32.57.85:5678
 ```
 
 
