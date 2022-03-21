@@ -114,99 +114,99 @@ Further updates will be made to this project throughout the year, the next updat
 
 ---
 
-# [SAMPLE PROXIES] - [March 20 2022 | 11:29:02]
+# [SAMPLE PROXIES] - [March 21 2022 | 01:29:02]
 
 ### Proxy Statistics:
 - _Online Proxies (By Protocol):_
-   - **SOCKS4** -> 1207
-   - **SOCKS5** -> 144
+   - **SOCKS4** -> 1212
+   - **SOCKS5** -> 162
    - **HTTP** -> 0
    - **HTTPS** -> 0
 
 - _Proxies (Total):_
-   - **Online Proxies (SOCKS4/5 + HTTP/S)** -> 1351
-   - **Unique Online Proxies** -> 1312
-   - **Unique Online/Offline Proxies (Archive)** -> 10954
+   - **Online Proxies (SOCKS4/5 + HTTP/S)** -> 1374
+   - **Unique Online Proxies** -> 1326
+   - **Unique Online/Offline Proxies (Archive)** -> 10993
 
-## [SOCKS4 (1207/1312)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks4.txt)
+## [SOCKS4 (1212/1326)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks4.txt)
 ```yaml
-1.4.157.35:36202
+1.9.27.217:4153
 1.9.164.242:35471
-1.9.213.114:4153
-1.10.133.19:4145
-1.10.141.220:37718
+1.9.167.36:60489
+1.20.95.95:5678
 1.32.57.85:5678
-1.32.59.217:31981
-1.179.186.69:1080
-1.186.82.4:5678
+1.53.137.84:4145
+1.55.241.4:4145
+1.179.186.70:1080
+1.186.40.2:39651
 1.220.145.45:4145
+2.135.223.134:5678
 3.141.13.98:5678
-4.28.96.129:39593
-5.22.154.50:32127
-5.130.72.170:5678
-5.152.86.46:14888
-5.153.140.179:4145
+4.14.120.234:39593
+4.28.96.254:39593
+5.34.74.234:5678
+5.58.47.25:3629
+5.58.66.55:14888
+5.83.93.133:4153
+5.101.65.78:6624
+5.133.24.167:5678
+5.153.140.180:4145
 5.178.217.227:31019
-5.180.100.24:5678
-5.181.248.202:5678
-5.190.60.221:3629
-5.226.125.10:10801
+5.181.171.134:1085
+5.188.108.243:31535
 8.39.228.5:39593
-8.39.228.113:39593
-8.42.68.93:39593
-8.42.69.93:39593
-8.42.69.105:39593
-8.42.71.225:39593
-8.42.71.226:39593
-12.11.59.114:1080
-12.218.209.130:13326
+8.39.228.193:39593
+8.39.228.209:39593
+8.40.133.10:1099
+8.42.68.42:39593
+8.42.69.101:39593
 ```
 
-## [SOCKS5 (144/1312)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks5.txt)
+## [SOCKS5 (162/1326)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks5.txt)
 ```yaml
-3.131.207.170:13343
-5.9.13.8:9050
-5.11.17.230:1080
 24.249.199.4:4145
-34.95.224.52:443
+24.249.199.12:4145
+27.116.51.186:6667
+31.128.248.2:1080
 36.7.79.105:7302
-36.26.4.118:7302
-39.152.104.167:7302
-43.224.10.27:6667
+36.32.191.51:7302
+37.139.243.32:1080
+39.108.56.233:8080
+39.184.147.250:7302
+43.224.8.124:6667
+43.224.10.48:6667
+45.63.48.64:11889
 45.67.229.101:30001
-46.101.5.73:45775
-47.97.221.159:7890
-47.240.226.173:1080
-47.242.168.35:9090
-47.242.235.25:29050
-50.63.165.21:23859
-51.83.21.224:16379
-51.222.12.245:10084
-51.222.13.193:10084
-60.10.10.171:7302
+45.142.212.10:30001
+45.142.214.123:30001
+47.109.40.23:1080
+49.51.74.61:21127
+49.51.74.195:21127
+50.62.63.126:10230
+51.79.52.80:3080
+51.155.3.184:33427
+58.21.199.78:7302
 60.12.215.23:7302
-60.174.107.73:7302
-61.174.68.160:7300
+60.28.57.177:7302
+60.215.109.34:7302
+61.130.151.230:7302
 61.174.68.160:7302
-61.178.88.109:7302
-61.178.172.95:7302
-62.113.115.94:16072
-62.171.144.238:5566
-65.21.131.244:10801
-69.163.163.189:20225
+61.175.121.98:7302
+61.175.220.11:7302
+61.178.99.43:7302
 ```
 
-## [HTTP (0/1312)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt)
+## [HTTP (0/1326)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt)
 ```yaml
 
 ```
 
-## [HTTPS (0/1312)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-https.txt)
+## [HTTPS (0/1326)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-https.txt)
 ```yaml
 
 ```
 
-## [ARCHIVE (1312/10954)](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/txt/working-proxies-history.txt)
+## [ARCHIVE (1326/10993)](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/txt/working-proxies-history.txt)
 ```yaml
 1.0.132.249:4153
 1.0.133.100:51327
