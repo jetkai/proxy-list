@@ -114,7 +114,7 @@ Further updates will be made to this project throughout the year, the next updat
 
 ---
 
-# [SAMPLE PROXIES] - [May 24 2022 | 11:29:03]
+# [SAMPLE PROXIES] - [May 25 2022 | 01:29:04]
 
 ### Proxy Statistics:
 - _Online Proxies (By Protocol):_
