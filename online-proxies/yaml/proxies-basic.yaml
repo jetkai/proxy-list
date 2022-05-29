@@ -1,0 +1,8181 @@
+---
+- ip: "1.0.133.89"
+  port: 4153
+  ping: 526
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "1.20.96.30"
+  port: 4153
+  ping: 573
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "1.20.220.79"
+  port: 4145
+  ping: 1027
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "3.20.236.208"
+  port: 49205
+  ping: 304
+  protocols:
+  - type: "https"
+    port: 49205
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 49205
+    tls: true
+    autoRead:
+    - false
+- ip: "3.120.173.144"
+  port: 8080
+  ping: 13
+  protocols:
+  - type: "socks4"
+    port: 8080
+    tls: false
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 8080
+    tls: false
+    autoRead:
+    - false
+- ip: "3.131.207.170"
+  port: 13343
+  ping: 388
+  protocols:
+  - type: "socks5"
+    port: 13343
+    tls: false
+    autoRead:
+    - false
+- ip: "3.141.13.98"
+  port: 5678
+  ping: 204
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "3.211.17.212"
+  port: 80
+  ping: 100
+  protocols:
+  - type: "socks5"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+- ip: "3.215.177.148"
+  port: 49205
+  ping: 195
+  protocols:
+  - type: "https"
+    port: 49205
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 49205
+    tls: true
+    autoRead:
+    - false
+- ip: "5.8.240.91"
+  port: 4153
+  ping: 802
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "5.34.74.234"
+  port: 5678
+  ping: 410
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "5.44.254.40"
+  port: 4145
+  ping: 606
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "5.104.174.199"
+  port: 23500
+  ping: 3533
+  protocols:
+  - type: "https"
+    port: 23500
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 23500
+    tls: true
+    autoRead:
+    - false
+- ip: "5.135.176.161"
+  port: 10000
+  ping: 309
+  protocols:
+  - type: "https"
+    port: 10000
+    tls: true
+    autoRead:
+    - false
+- ip: "5.161.86.206"
+  port: 1080
+  ping: 258
+  protocols:
+  - type: "socks5"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "5.161.100.145"
+  port: 1080
+  ping: 589
+  protocols:
+  - type: "socks5"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "5.178.204.235"
+  port: 2082
+  ping: 323
+  protocols:
+  - type: "socks4"
+    port: 2082
+    tls: true
+    autoRead:
+    - false
+- ip: "5.180.100.24"
+  port: 5678
+  ping: 247
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "5.189.186.24"
+  port: 5566
+  ping: 4014
+  protocols:
+  - type: "socks5"
+    port: 5566
+    tls: false
+    autoRead:
+    - false
+- ip: "5.253.145.247"
+  port: 1080
+  ping: 550
+  protocols:
+  - type: "socks5"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "8.17.28.139"
+  port: 39593
+  ping: 299
+  protocols:
+  - type: "socks4"
+    port: 39593
+    tls: true
+    autoRead:
+    - false
+- ip: "8.42.68.197"
+  port: 39593
+  ping: 426
+  protocols:
+  - type: "socks4"
+    port: 39593
+    tls: true
+    autoRead:
+    - false
+- ip: "8.218.69.97"
+  port: 8000
+  ping: 289
+  protocols:
+  - type: "socks5"
+    port: 8000
+    tls: false
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 8000
+    tls: false
+    autoRead:
+    - false
+- ip: "12.151.56.30"
+  port: 80
+  ping: 118
+  protocols:
+  - type: "socks4"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+- ip: "12.187.55.1"
+  port: 39593
+  ping: 781
+  protocols:
+  - type: "socks4"
+    port: 39593
+    tls: true
+    autoRead:
+    - false
+- ip: "13.58.88.184"
+  port: 5678
+  ping: 248
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "13.58.223.158"
+  port: 5678
+  ping: 241
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "14.102.64.209"
+  port: 60616
+  ping: 1059
+  protocols:
+  - type: "socks4"
+    port: 60616
+    tls: true
+    autoRead:
+    - false
+- ip: "14.177.235.17"
+  port: 8080
+  ping: 506
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "14.215.212.37"
+  port: 4153
+  ping: 1234
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "14.241.170.106"
+  port: 5678
+  ping: 552
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "14.241.225.179"
+  port: 5678
+  ping: 442
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "18.206.33.119"
+  port: 8888
+  ping: 89
+  protocols:
+  - type: "socks5"
+    port: 8888
+    tls: false
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 8888
+    tls: false
+    autoRead:
+    - false
+- ip: "18.216.32.60"
+  port: 5678
+  ping: 216
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "18.216.72.10"
+  port: 5678
+  ping: 203
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 49205
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 49205
+    tls: true
+    autoRead:
+    - false
+- ip: "18.222.17.49"
+  port: 49205
+  ping: 2771
+  protocols:
+  - type: "http"
+    port: 49205
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 49205
+    tls: true
+    autoRead:
+    - false
+- ip: "20.203.120.85"
+  port: 80
+  ping: 7189
+  protocols:
+  - type: "http"
+    port: 80
+    tls: true
+    autoRead:
+    - false
+- ip: "23.31.119.146"
+  port: 1080
+  ping: 681
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "24.88.66.70"
+  port: 64312
+  ping: 545
+  protocols:
+  - type: "socks4"
+    port: 64312
+    tls: true
+    autoRead:
+    - false
+- ip: "27.123.4.238"
+  port: 5678
+  ping: 1085
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "27.128.196.205"
+  port: 7302
+  ping: 762
+  protocols:
+  - type: "socks5"
+    port: 7302
+    tls: false
+    autoRead:
+    - false
+- ip: "31.43.63.70"
+  port: 4145
+  ping: 193
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "31.173.251.198"
+  port: 40547
+  ping: 386
+  protocols:
+  - type: "socks4"
+    port: 40547
+    tls: true
+    autoRead:
+    - false
+- ip: "34.229.130.62"
+  port: 49205
+  ping: 194
+  protocols:
+  - type: "https"
+    port: 49205
+    tls: true
+    autoRead:
+    - false
+- ip: "34.230.89.25"
+  port: 49205
+  ping: 201
+  protocols:
+  - type: "https"
+    port: 49205
+    tls: true
+    autoRead:
+    - false
+- ip: "35.244.6.175"
+  port: 1080
+  ping: 8863
+  protocols:
+  - type: "socks5"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "36.7.108.56"
+  port: 9091
+  ping: 283
+  protocols:
+  - type: "socks5"
+    port: 9091
+    tls: false
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 9091
+    tls: false
+    autoRead:
+    - false
+- ip: "36.35.240.26"
+  port: 7302
+  ping: 2693
+  protocols:
+  - type: "socks5"
+    port: 7302
+    tls: true
+    autoRead:
+    - false
+- ip: "36.37.94.199"
+  port: 5678
+  ping: 1006
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "36.66.36.251"
+  port: 4153
+  ping: 738
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "36.66.36.252"
+  port: 4153
+  ping: 758
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "36.66.172.121"
+  port: 39810
+  ping: 2119
+  protocols:
+  - type: "http"
+    port: 39810
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 39810
+    tls: true
+    autoRead:
+    - false
+- ip: "36.66.192.35"
+  port: 38420
+  ping: 1101
+  protocols:
+  - type: "socks4"
+    port: 38420
+    tls: true
+    autoRead:
+    - false
+- ip: "36.66.203.163"
+  port: 5678
+  ping: 821
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "36.67.152.213"
+  port: 11111
+  ping: 1406
+  protocols:
+  - type: "https"
+    port: 11111
+    tls: true
+    autoRead:
+    - false
+- ip: "36.89.91.83"
+  port: 5678
+  ping: 949
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "36.92.9.75"
+  port: 49420
+  ping: 602
+  protocols:
+  - type: "socks4"
+    port: 49420
+    tls: true
+    autoRead:
+    - false
+- ip: "36.92.77.241"
+  port: 5678
+  ping: 8250
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "36.92.81.181"
+  port: 4145
+  ping: 650
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "36.93.2.50"
+  port: 8080
+  ping: 7921
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "36.93.38.173"
+  port: 4153
+  ping: 1164
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "36.95.154.43"
+  port: 5678
+  ping: 1055
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "36.95.171.107"
+  port: 5678
+  ping: 963
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "37.53.90.82"
+  port: 8010
+  ping: 590
+  protocols:
+  - type: "socks4"
+    port: 8010
+    tls: true
+    autoRead:
+    - false
+- ip: "37.98.231.12"
+  port: 1080
+  ping: 434
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "37.111.50.251"
+  port: 4153
+  ping: 1150
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "37.111.50.253"
+  port: 4153
+  ping: 799
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "37.111.50.254"
+  port: 4153
+  ping: 809
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "38.131.32.78"
+  port: 5678
+  ping: 681
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "39.175.75.8"
+  port: 30001
+  ping: 261
+  protocols:
+  - type: "socks5"
+    port: 30001
+    tls: false
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 30001
+    tls: false
+    autoRead:
+    - false
+- ip: "41.75.98.149"
+  port: 1080
+  ping: 789
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "41.77.23.120"
+  port: 5678
+  ping: 1165
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "41.162.91.202"
+  port: 5678
+  ping: 739
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "41.174.184.222"
+  port: 5678
+  ping: 3138
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "41.242.116.235"
+  port: 50000
+  ping: 814
+  protocols:
+  - type: "https"
+    port: 50000
+    tls: true
+    autoRead:
+    - false
+- ip: "42.192.22.233"
+  port: 8118
+  ping: 3780
+  protocols:
+  - type: "https"
+    port: 8118
+    tls: true
+    autoRead:
+    - false
+- ip: "43.128.7.195"
+  port: 1080
+  ping: 1030
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "43.129.207.123"
+  port: 3001
+  ping: 1567
+  protocols:
+  - type: "socks5"
+    port: 3001
+    tls: true
+    autoRead:
+    - false
+- ip: "43.132.203.188"
+  port: 57890
+  ping: 4162
+  protocols:
+  - type: "socks5"
+    port: 57890
+    tls: true
+    autoRead:
+    - false
+- ip: "43.135.154.94"
+  port: 21127
+  ping: 5318
+  protocols:
+  - type: "socks4"
+    port: 21127
+    tls: true
+    autoRead:
+    - false
+- ip: "43.154.71.147"
+  port: 8118
+  ping: 4954
+  protocols:
+  - type: "http"
+    port: 8118
+    tls: true
+    autoRead:
+    - false
+- ip: "43.224.10.30"
+  port: 6667
+  ping: 1446
+  protocols:
+  - type: "socks5"
+    port: 6667
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 6666
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 6666
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 6667
+    tls: true
+    autoRead:
+    - false
+- ip: "43.225.187.197"
+  port: 5678
+  ping: 1287
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "43.242.242.140"
+  port: 5678
+  ping: 380
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "43.243.60.56"
+  port: 5678
+  ping: 992
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "43.254.132.123"
+  port: 8118
+  ping: 3933
+  protocols:
+  - type: "https"
+    port: 8118
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 8118
+    tls: true
+    autoRead:
+    - false
+- ip: "45.7.210.202"
+  port: 4153
+  ping: 1035
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "45.8.116.80"
+  port: 1080
+  ping: 733
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "45.70.30.199"
+  port: 5678
+  ping: 701
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "45.70.204.249"
+  port: 4145
+  ping: 845
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "45.70.206.41"
+  port: 4145
+  ping: 568
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "45.112.3.221"
+  port: 4145
+  ping: 444
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "45.117.228.81"
+  port: 4145
+  ping: 670
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "45.122.45.49"
+  port: 5678
+  ping: 485
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "45.126.169.217"
+  port: 4145
+  ping: 413
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "45.153.165.118"
+  port: 999
+  ping: 2508
+  protocols:
+  - type: "http"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "45.167.125.209"
+  port: 9992
+  ping: 450
+  protocols:
+  - type: "http"
+    port: 9992
+    tls: true
+    autoRead:
+    - false
+- ip: "45.174.161.2"
+  port: 5678
+  ping: 3193
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "45.175.179.3"
+  port: 4145
+  ping: 717
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "45.179.228.104"
+  port: 1080
+  ping: 1060
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "45.190.249.100"
+  port: 8080
+  ping: 1220
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "45.191.196.254"
+  port: 999
+  ping: 2749
+  protocols:
+  - type: "http"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "45.228.60.114"
+  port: 4153
+  ping: 893
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "45.229.193.253"
+  port: 5678
+  ping: 826
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "45.232.226.137"
+  port: 52104
+  ping: 612
+  protocols:
+  - type: "socks4"
+    port: 52104
+    tls: true
+    autoRead:
+    - false
+- ip: "45.236.209.113"
+  port: 4153
+  ping: 932
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "45.238.37.102"
+  port: 4153
+  ping: 844
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "46.21.240.185"
+  port: 1080
+  ping: 285
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "46.98.196.243"
+  port: 5678
+  ping: 333
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "46.149.34.206"
+  port: 3629
+  ping: 231
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "46.188.53.61"
+  port: 3629
+  ping: 477
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "46.188.82.63"
+  port: 4153
+  ping: 528
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "46.209.100.250"
+  port: 5678
+  ping: 474
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "46.209.131.246"
+  port: 8080
+  ping: 1658
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "46.219.80.142"
+  port: 45237
+  ping: 190
+  protocols:
+  - type: "socks4"
+    port: 45237
+    tls: true
+    autoRead:
+    - false
+- ip: "46.227.162.98"
+  port: 33802
+  ping: 357
+  protocols:
+  - type: "socks4"
+    port: 33802
+    tls: true
+    autoRead:
+    - false
+- ip: "46.254.217.67"
+  port: 61781
+  ping: 214
+  protocols:
+  - type: "socks4"
+    port: 61781
+    tls: true
+    autoRead:
+    - false
+- ip: "47.52.254.9"
+  port: 9100
+  ping: 6805
+  protocols:
+  - type: "socks4"
+    port: 9100
+    tls: true
+    autoRead:
+    - false
+- ip: "47.74.226.8"
+  port: 5001
+  ping: 248
+  protocols:
+  - type: "socks5"
+    port: 5001
+    tls: false
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 5001
+    tls: false
+    autoRead:
+    - false
+- ip: "47.89.153.213"
+  port: 80
+  ping: 974
+  protocols:
+  - type: "socks5"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+- ip: "47.240.226.173"
+  port: 1080
+  ping: 3228
+  protocols:
+  - type: "socks5"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "49.0.42.114"
+  port: 10801
+  ping: 1808
+  protocols:
+  - type: "socks4"
+    port: 10801
+    tls: true
+    autoRead:
+    - false
+- ip: "49.12.156.165"
+  port: 80
+  ping: 7365
+  protocols:
+  - type: "socks5"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+  - type: "http"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+- ip: "49.51.189.171"
+  port: 21127
+  ping: 4436
+  protocols:
+  - type: "socks4"
+    port: 21127
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 21127
+    tls: true
+    autoRead:
+    - false
+- ip: "50.197.210.138"
+  port: 32100
+  ping: 488
+  protocols:
+  - type: "socks4"
+    port: 32100
+    tls: true
+    autoRead:
+    - false
+- ip: "50.227.46.1"
+  port: 32482
+  ping: 759
+  protocols:
+  - type: "socks4"
+    port: 32482
+    tls: true
+    autoRead:
+    - false
+- ip: "51.15.8.75"
+  port: 3738
+  ping: 366
+  protocols:
+  - type: "socks4"
+    port: 3738
+    tls: false
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 3738
+    tls: false
+    autoRead:
+    - false
+  - type: "http"
+    port: 3738
+    tls: true
+    autoRead:
+    - false
+- ip: "51.155.3.184"
+  port: 33427
+  ping: 464
+  protocols:
+  - type: "socks5"
+    port: 33427
+    tls: true
+    autoRead:
+    - false
+- ip: "51.195.211.154"
+  port: 8080
+  ping: 345
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "52.91.171.186"
+  port: 49205
+  ping: 198
+  protocols:
+  - type: "https"
+    port: 49205
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 49205
+    tls: true
+    autoRead:
+    - false
+- ip: "58.18.43.34"
+  port: 10800
+  ping: 1008
+  protocols:
+  - type: "socks4"
+    port: 10800
+    tls: true
+    autoRead:
+    - false
+- ip: "58.20.184.187"
+  port: 9091
+  ping: 185
+  protocols:
+  - type: "socks4"
+    port: 9091
+    tls: false
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 9091
+    tls: false
+    autoRead:
+    - false
+- ip: "58.20.232.245"
+  port: 9091
+  ping: 438
+  protocols:
+  - type: "socks4"
+    port: 9091
+    tls: false
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 9091
+    tls: false
+    autoRead:
+    - false
+- ip: "58.20.235.180"
+  port: 9091
+  ping: 401
+  protocols:
+  - type: "socks4"
+    port: 9091
+    tls: false
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 9091
+    tls: false
+    autoRead:
+    - false
+- ip: "58.27.255.98"
+  port: 8080
+  ping: 1593
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "58.35.201.137"
+  port: 4145
+  ping: 631
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "58.84.56.19"
+  port: 4153
+  ping: 715
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "58.252.219.12"
+  port: 11337
+  ping: 635
+  protocols:
+  - type: "socks4"
+    port: 11337
+    tls: true
+    autoRead:
+    - false
+- ip: "60.215.109.34"
+  port: 7302
+  ping: 3234
+  protocols:
+  - type: "socks5"
+    port: 7302
+    tls: true
+    autoRead:
+    - false
+- ip: "60.255.230.169"
+  port: 7302
+  ping: 1203
+  protocols:
+  - type: "socks5"
+    port: 7302
+    tls: true
+    autoRead:
+    - false
+- ip: "61.7.159.133"
+  port: 8081
+  ping: 919
+  protocols:
+  - type: "https"
+    port: 8081
+    tls: true
+    autoRead:
+    - false
+- ip: "61.170.240.79"
+  port: 4145
+  ping: 594
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "61.183.87.194"
+  port: 5678
+  ping: 1004
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "62.33.235.41"
+  port: 4153
+  ping: 229
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "62.73.127.98"
+  port: 10801
+  ping: 389
+  protocols:
+  - type: "socks4"
+    port: 10801
+    tls: true
+    autoRead:
+    - false
+- ip: "64.27.10.3"
+  port: 32688
+  ping: 525
+  protocols:
+  - type: "socks4"
+    port: 32688
+    tls: true
+    autoRead:
+    - false
+- ip: "64.124.145.1"
+  port: 1080
+  ping: 439
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "65.21.103.82"
+  port: 1000
+  ping: 600
+  protocols:
+  - type: "socks4"
+    port: 1000
+    tls: true
+    autoRead:
+    - false
+- ip: "65.186.60.165"
+  port: 5678
+  ping: 299
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "66.42.224.229"
+  port: 41679
+  ping: 1865
+  protocols:
+  - type: "socks5"
+    port: 41679
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 41679
+    tls: true
+    autoRead:
+    - false
+- ip: "67.201.33.10"
+  port: 25283
+  ping: 554
+  protocols:
+  - type: "socks4"
+    port: 25283
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 25283
+    tls: true
+    autoRead:
+    - false
+- ip: "69.61.200.104"
+  port: 36181
+  ping: 2473
+  protocols:
+  - type: "socks4"
+    port: 36181
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 36181
+    tls: true
+    autoRead:
+    - false
+- ip: "69.75.122.146"
+  port: 39593
+  ping: 1162
+  protocols:
+  - type: "socks4"
+    port: 39593
+    tls: true
+    autoRead:
+    - false
+- ip: "70.60.132.130"
+  port: 5678
+  ping: 2151
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "70.166.167.38"
+  port: 57728
+  ping: 805
+  protocols:
+  - type: "socks5"
+    port: 57728
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 57728
+    tls: true
+    autoRead:
+    - false
+- ip: "70.166.167.55"
+  port: 57745
+  ping: 642
+  protocols:
+  - type: "socks4"
+    port: 57745
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 57745
+    tls: true
+    autoRead:
+    - false
+- ip: "71.71.162.234"
+  port: 39593
+  ping: 270
+  protocols:
+  - type: "socks4"
+    port: 39593
+    tls: true
+    autoRead:
+    - false
+- ip: "72.49.49.11"
+  port: 31034
+  ping: 1425
+  protocols:
+  - type: "socks5"
+    port: 31034
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 31034
+    tls: true
+    autoRead:
+    - false
+- ip: "72.195.34.35"
+  port: 27360
+  ping: 821
+  protocols:
+  - type: "socks4"
+    port: 27360
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 27360
+    tls: true
+    autoRead:
+    - false
+- ip: "72.195.34.60"
+  port: 27391
+  ping: 921
+  protocols:
+  - type: "socks4"
+    port: 27391
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 27391
+    tls: true
+    autoRead:
+    - false
+- ip: "72.195.114.184"
+  port: 4145
+  ping: 782
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "72.206.181.97"
+  port: 64943
+  ping: 660
+  protocols:
+  - type: "socks4"
+    port: 64943
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 64943
+    tls: true
+    autoRead:
+    - false
+- ip: "72.210.252.137"
+  port: 4145
+  ping: 647
+  protocols:
+  - type: "socks5"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "72.217.216.239"
+  port: 4145
+  ping: 763
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "72.221.164.34"
+  port: 60671
+  ping: 788
+  protocols:
+  - type: "socks5"
+    port: 60671
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 60671
+    tls: true
+    autoRead:
+    - false
+- ip: "72.221.196.157"
+  port: 35904
+  ping: 483
+  protocols:
+  - type: "socks4"
+    port: 35904
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 35904
+    tls: true
+    autoRead:
+    - false
+- ip: "72.221.232.152"
+  port: 4145
+  ping: 759
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "72.221.232.155"
+  port: 4145
+  ping: 1012
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "74.56.228.180"
+  port: 4145
+  ping: 651
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "76.186.82.159"
+  port: 8118
+  ping: 3742
+  protocols:
+  - type: "http"
+    port: 8118
+    tls: true
+    autoRead:
+    - false
+- ip: "77.235.28.229"
+  port: 4153
+  ping: 404
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "78.140.195.66"
+  port: 3629
+  ping: 517
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "78.186.99.87"
+  port: 1080
+  ping: 576
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "79.137.34.35"
+  port: 40135
+  ping: 2532
+  protocols:
+  - type: "socks5"
+    port: 40135
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 50665
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 50665
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 40135
+    tls: true
+    autoRead:
+    - false
+- ip: "80.28.208.113"
+  port: 10801
+  ping: 317
+  protocols:
+  - type: "socks4"
+    port: 10801
+    tls: true
+    autoRead:
+    - false
+- ip: "80.78.225.128"
+  port: 4153
+  ping: 334
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "80.82.147.2"
+  port: 4153
+  ping: 613
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "80.89.137.54"
+  port: 4145
+  ping: 383
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "80.90.80.54"
+  port: 8080
+  ping: 154
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "80.91.125.119"
+  port: 8089
+  ping: 300
+  protocols:
+  - type: "http"
+    port: 8089
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 8089
+    tls: true
+    autoRead:
+    - false
+- ip: "80.191.40.41"
+  port: 5678
+  ping: 393
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "81.12.104.38"
+  port: 3629
+  ping: 628
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "81.22.103.65"
+  port: 80
+  ping: 201
+  protocols:
+  - type: "socks5"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+- ip: "81.89.69.37"
+  port: 4153
+  ping: 526
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "81.95.45.234"
+  port: 8080
+  ping: 144
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "81.162.199.38"
+  port: 4153
+  ping: 496
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "81.162.199.41"
+  port: 4153
+  ping: 622
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "81.163.254.104"
+  port: 3629
+  ping: 496
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "81.174.11.159"
+  port: 43516
+  ping: 3355
+  protocols:
+  - type: "socks4"
+    port: 43516
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 61743
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 61743
+    tls: true
+    autoRead:
+    - false
+- ip: "81.183.253.34"
+  port: 4145
+  ping: 564
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "81.199.14.17"
+  port: 1088
+  ping: 678
+  protocols:
+  - type: "socks4"
+    port: 1088
+    tls: true
+    autoRead:
+    - false
+- ip: "82.66.106.125"
+  port: 80
+  ping: 25
+  protocols:
+  - type: "socks5"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+- ip: "82.150.177.19"
+  port: 8080
+  ping: 5081
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "82.156.9.128"
+  port: 1080
+  ping: 280
+  protocols:
+  - type: "socks5"
+    port: 1080
+    tls: false
+    autoRead:
+    - false
+- ip: "82.207.20.247"
+  port: 5678
+  ping: 369
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "82.207.37.180"
+  port: 4153
+  ping: 226
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "84.22.61.69"
+  port: 1080
+  ping: 166
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "85.31.251.62"
+  port: 8080
+  ping: 2307
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "85.117.56.174"
+  port: 25668
+  ping: 561
+  protocols:
+  - type: "socks5"
+    port: 25668
+    tls: true
+    autoRead:
+    - false
+- ip: "85.133.130.18"
+  port: 8080
+  ping: 1747
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "85.196.136.21"
+  port: 4153
+  ping: 535
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "85.237.62.189"
+  port: 3629
+  ping: 267
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "86.109.54.33"
+  port: 5678
+  ping: 665
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "88.199.82.66"
+  port: 54194
+  ping: 615
+  protocols:
+  - type: "socks4"
+    port: 54194
+    tls: true
+    autoRead:
+    - false
+- ip: "88.255.185.230"
+  port: 8080
+  ping: 4508
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "88.255.185.234"
+  port: 1082
+  ping: 304
+  protocols:
+  - type: "socks4"
+    port: 1082
+    tls: true
+    autoRead:
+    - false
+- ip: "89.19.115.55"
+  port: 6655
+  ping: 1537
+  protocols:
+  - type: "socks5"
+    port: 6655
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 6655
+    tls: true
+    autoRead:
+    - false
+- ip: "89.96.53.5"
+  port: 1088
+  ping: 182
+  protocols:
+  - type: "socks4"
+    port: 1088
+    tls: true
+    autoRead:
+    - false
+- ip: "89.204.80.190"
+  port: 4153
+  ping: 346
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "89.212.90.179"
+  port: 4145
+  ping: 188
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "89.228.128.216"
+  port: 5678
+  ping: 672
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "89.250.152.76"
+  port: 8080
+  ping: 652
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "90.181.150.210"
+  port: 4145
+  ping: 134
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "91.103.29.150"
+  port: 3629
+  ping: 462
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "91.107.1.17"
+  port: 1080
+  ping: 560
+  protocols:
+  - type: "socks5"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "91.134.139.238"
+  port: 3080
+  ping: 988
+  protocols:
+  - type: "socks5"
+    port: 3080
+    tls: true
+    autoRead:
+    - false
+- ip: "91.150.77.57"
+  port: 56921
+  ping: 212
+  protocols:
+  - type: "socks4"
+    port: 56921
+    tls: true
+    autoRead:
+    - false
+- ip: "91.193.125.123"
+  port: 3629
+  ping: 215
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "91.195.254.121"
+  port: 3629
+  ping: 1461
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "91.200.115.49"
+  port: 1080
+  ping: 254
+  protocols:
+  - type: "socks5"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "91.201.240.84"
+  port: 5678
+  ping: 540
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "91.232.135.105"
+  port: 80
+  ping: 49
+  protocols:
+  - type: "socks4"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+- ip: "91.242.213.247"
+  port: 8080
+  ping: 1784
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "92.42.8.23"
+  port: 4153
+  ping: 314
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "92.45.19.44"
+  port: 1080
+  ping: 313
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "92.241.87.14"
+  port: 5678
+  ping: 831
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "92.249.122.108"
+  port: 58749
+  ping: 251
+  protocols:
+  - type: "socks4"
+    port: 58749
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 61778
+    tls: true
+    autoRead:
+    - false
+- ip: "93.116.57.4"
+  port: 4153
+  ping: 371
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "93.171.224.58"
+  port: 4153
+  ping: 531
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "93.187.176.86"
+  port: 3629
+  ping: 232
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "94.101.55.201"
+  port: 4153
+  ping: 165
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "94.101.140.131"
+  port: 9999
+  ping: 563
+  protocols:
+  - type: "http"
+    port: 9999
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 9999
+    tls: true
+    autoRead:
+    - false
+- ip: "94.153.209.22"
+  port: 3629
+  ping: 221
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "94.158.152.248"
+  port: 46846
+  ping: 557
+  protocols:
+  - type: "socks4"
+    port: 46846
+    tls: true
+    autoRead:
+    - false
+- ip: "94.228.192.233"
+  port: 39603
+  ping: 365
+  protocols:
+  - type: "socks4"
+    port: 39603
+    tls: true
+    autoRead:
+    - false
+- ip: "94.231.178.249"
+  port: 9797
+  ping: 4004
+  protocols:
+  - type: "http"
+    port: 9797
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 9797
+    tls: true
+    autoRead:
+    - false
+- ip: "95.0.66.86"
+  port: 8080
+  ping: 714
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "95.31.5.29"
+  port: 51528
+  ping: 517
+  protocols:
+  - type: "socks4"
+    port: 51528
+    tls: true
+    autoRead:
+    - false
+- ip: "95.43.42.100"
+  port: 4145
+  ping: 187
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "95.216.194.46"
+  port: 1080
+  ping: 290
+  protocols:
+  - type: "http"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 1081
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 1081
+    tls: true
+    autoRead:
+    - false
+- ip: "95.216.249.203"
+  port: 83
+  ping: 144
+  protocols:
+  - type: "http"
+    port: 83
+    tls: true
+    autoRead:
+    - false
+- ip: "98.162.25.4"
+  port: 31654
+  ping: 762
+  protocols:
+  - type: "socks5"
+    port: 31654
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 31654
+    tls: true
+    autoRead:
+    - false
+- ip: "98.162.25.7"
+  port: 31653
+  ping: 486
+  protocols:
+  - type: "socks4"
+    port: 31653
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 31653
+    tls: true
+    autoRead:
+    - false
+- ip: "98.162.25.16"
+  port: 4145
+  ping: 481
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "98.162.25.23"
+  port: 4145
+  ping: 762
+  protocols:
+  - type: "socks5"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "98.162.25.29"
+  port: 31679
+  ping: 479
+  protocols:
+  - type: "socks4"
+    port: 31679
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 31679
+    tls: true
+    autoRead:
+    - false
+- ip: "98.162.96.41"
+  port: 4145
+  ping: 840
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "98.175.31.195"
+  port: 4145
+  ping: 645
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "98.188.47.132"
+  port: 4145
+  ping: 877
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "99.26.74.89"
+  port: 39593
+  ping: 2943
+  protocols:
+  - type: "socks4"
+    port: 39593
+    tls: true
+    autoRead:
+    - false
+- ip: "101.34.225.139"
+  port: 9999
+  ping: 277
+  protocols:
+  - type: "socks4"
+    port: 9999
+    tls: false
+    autoRead:
+    - false
+- ip: "101.51.121.141"
+  port: 4153
+  ping: 645
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "101.53.158.48"
+  port: 9200
+  ping: 147
+  protocols:
+  - type: "socks4"
+    port: 9200
+    tls: false
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 9200
+    tls: false
+    autoRead:
+    - false
+  - type: "https"
+    port: 9200
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 9600
+    tls: true
+    autoRead:
+    - false
+- ip: "101.108.30.191"
+  port: 4145
+  ping: 616
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "101.109.41.137"
+  port: 4153
+  ping: 869
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "101.109.251.42"
+  port: 4145
+  ping: 534
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "102.36.127.249"
+  port: 1080
+  ping: 861
+  protocols:
+  - type: "socks5"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "102.64.116.97"
+  port: 4145
+  ping: 1098
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "102.64.116.254"
+  port: 4145
+  ping: 877
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "102.66.161.210"
+  port: 9999
+  ping: 4966
+  protocols:
+  - type: "https"
+    port: 9999
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 9999
+    tls: true
+    autoRead:
+    - false
+- ip: "102.66.225.163"
+  port: 5678
+  ping: 4505
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "102.66.228.125"
+  port: 5678
+  ping: 3744
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "102.68.73.210"
+  port: 10801
+  ping: 1291
+  protocols:
+  - type: "socks4"
+    port: 10801
+    tls: true
+    autoRead:
+    - false
+- ip: "102.68.128.212"
+  port: 8080
+  ping: 3803
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "102.89.16.24"
+  port: 8080
+  ping: 2293
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "102.141.91.245"
+  port: 5678
+  ping: 1659
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "102.176.160.70"
+  port: 5678
+  ping: 1097
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "102.219.33.109"
+  port: 1080
+  ping: 557
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "102.219.77.243"
+  port: 4153
+  ping: 1127
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "103.6.207.9"
+  port: 4153
+  ping: 453
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "103.6.207.250"
+  port: 4153
+  ping: 458
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "103.9.188.138"
+  port: 52269
+  ping: 488
+  protocols:
+  - type: "socks4"
+    port: 52269
+    tls: true
+    autoRead:
+    - false
+- ip: "103.10.22.236"
+  port: 8080
+  ping: 4831
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "103.23.100.1"
+  port: 4145
+  ping: 1055
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "103.24.21.1"
+  port: 5678
+  ping: 495
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "103.31.45.173"
+  port: 4153
+  ping: 786
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "103.36.11.122"
+  port: 4145
+  ping: 843
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "103.37.82.134"
+  port: 39873
+  ping: 544
+  protocols:
+  - type: "socks4"
+    port: 39873
+    tls: true
+    autoRead:
+    - false
+- ip: "103.41.212.226"
+  port: 44759
+  ping: 7282
+  protocols:
+  - type: "https"
+    port: 44759
+    tls: true
+    autoRead:
+    - false
+- ip: "103.42.162.50"
+  port: 8080
+  ping: 1720
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "103.47.216.19"
+  port: 4145
+  ping: 629
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "103.58.16.5"
+  port: 4145
+  ping: 1046
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "103.60.161.2"
+  port: 80
+  ping: 206
+  protocols:
+  - type: "socks4"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+- ip: "103.60.186.21"
+  port: 52195
+  ping: 485
+  protocols:
+  - type: "socks4"
+    port: 52195
+    tls: true
+    autoRead:
+    - false
+- ip: "103.66.232.201"
+  port: 4145
+  ping: 503
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "103.68.35.162"
+  port: 4145
+  ping: 875
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "103.69.38.1"
+  port: 8080
+  ping: 1008
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "103.71.21.250"
+  port: 83
+  ping: 2668
+  protocols:
+  - type: "https"
+    port: 83
+    tls: true
+    autoRead:
+    - false
+- ip: "103.75.184.179"
+  port: 49780
+  ping: 4208
+  protocols:
+  - type: "socks5"
+    port: 49780
+    tls: true
+    autoRead:
+    - false
+- ip: "103.76.190.1"
+  port: 4153
+  ping: 714
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "103.77.41.138"
+  port: 8080
+  ping: 3091
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "103.78.254.78"
+  port: 80
+  ping: 166
+  protocols:
+  - type: "socks5"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+- ip: "103.79.96.177"
+  port: 4153
+  ping: 926
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "103.83.116.147"
+  port: 5678
+  ping: 2210
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "103.83.116.202"
+  port: 55443
+  ping: 2154
+  protocols:
+  - type: "http"
+    port: 55443
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 55443
+    tls: true
+    autoRead:
+    - false
+- ip: "103.87.212.15"
+  port: 4153
+  ping: 827
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "103.92.160.242"
+  port: 4673
+  ping: 545
+  protocols:
+  - type: "socks4"
+    port: 4673
+    tls: true
+    autoRead:
+    - false
+- ip: "103.100.14.1"
+  port: 4153
+  ping: 752
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "103.101.81.193"
+  port: 9812
+  ping: 2634
+  protocols:
+  - type: "http"
+    port: 9812
+    tls: true
+    autoRead:
+    - false
+- ip: "103.102.141.39"
+  port: 4145
+  ping: 546
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "103.105.76.21"
+  port: 5678
+  ping: 859
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "103.110.91.242"
+  port: 3128
+  ping: 1288
+  protocols:
+  - type: "https"
+    port: 3128
+    tls: true
+    autoRead:
+    - false
+- ip: "103.111.219.138"
+  port: 4145
+  ping: 1086
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "103.114.96.93"
+  port: 1080
+  ping: 688
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "103.115.255.86"
+  port: 36331
+  ping: 603
+  protocols:
+  - type: "socks4"
+    port: 36331
+    tls: true
+    autoRead:
+    - false
+- ip: "103.116.203.244"
+  port: 40927
+  ping: 830
+  protocols:
+  - type: "socks4"
+    port: 40927
+    tls: true
+    autoRead:
+    - false
+- ip: "103.117.232.222"
+  port: 4109
+  ping: 901
+  protocols:
+  - type: "socks4"
+    port: 4109
+    tls: true
+    autoRead:
+    - false
+- ip: "103.120.39.106"
+  port: 5678
+  ping: 497
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "103.121.214.50"
+  port: 4145
+  ping: 515
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "103.122.32.10"
+  port: 8080
+  ping: 2549
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "103.122.84.27"
+  port: 5678
+  ping: 596
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "103.124.136.77"
+  port: 4145
+  ping: 733
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "103.124.138.101"
+  port: 5678
+  ping: 510
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "103.127.52.132"
+  port: 5678
+  ping: 3174
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "103.130.107.209"
+  port: 83
+  ping: 3354
+  protocols:
+  - type: "http"
+    port: 83
+    tls: true
+    autoRead:
+    - false
+- ip: "103.130.113.245"
+  port: 5678
+  ping: 675
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "103.132.0.161"
+  port: 5678
+  ping: 474
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "103.132.52.178"
+  port: 8080
+  ping: 2656
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "103.132.124.18"
+  port: 5678
+  ping: 724
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "103.134.184.238"
+  port: 5430
+  ping: 462
+  protocols:
+  - type: "socks4"
+    port: 5430
+    tls: true
+    autoRead:
+    - false
+- ip: "103.134.214.130"
+  port: 1648
+  ping: 1058
+  protocols:
+  - type: "socks4"
+    port: 1648
+    tls: true
+    autoRead:
+    - false
+- ip: "103.137.84.18"
+  port: 83
+  ping: 3908
+  protocols:
+  - type: "http"
+    port: 83
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 84
+    tls: true
+    autoRead:
+    - false
+- ip: "103.140.35.11"
+  port: 4145
+  ping: 464
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "103.140.108.50"
+  port: 8080
+  ping: 2734
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "103.143.84.72"
+  port: 44550
+  ping: 564
+  protocols:
+  - type: "socks4"
+    port: 44550
+    tls: true
+    autoRead:
+    - false
+- ip: "103.143.196.44"
+  port: 1080
+  ping: 538
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "103.145.141.36"
+  port: 8080
+  ping: 1202
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "103.146.184.45"
+  port: 1080
+  ping: 724
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "103.148.225.6"
+  port: 5678
+  ping: 638
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "103.150.115.186"
+  port: 4153
+  ping: 749
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "103.151.219.18"
+  port: 1080
+  ping: 520
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "103.153.140.100"
+  port: 4673
+  ping: 546
+  protocols:
+  - type: "socks4"
+    port: 4673
+    tls: true
+    autoRead:
+    - false
+- ip: "103.157.14.137"
+  port: 4153
+  ping: 607
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "103.159.46.9"
+  port: 84
+  ping: 4558
+  protocols:
+  - type: "https"
+    port: 84
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 82
+    tls: true
+    autoRead:
+    - false
+- ip: "103.161.164.105"
+  port: 8181
+  ping: 805
+  protocols:
+  - type: "https"
+    port: 8181
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 8181
+    tls: true
+    autoRead:
+    - false
+- ip: "103.163.169.73"
+  port: 1080
+  ping: 743
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "103.166.191.202"
+  port: 5678
+  ping: 551
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "103.167.162.75"
+  port: 5678
+  ping: 710
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "103.168.129.122"
+  port: 8080
+  ping: 4110
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "103.169.130.27"
+  port: 5678
+  ping: 849
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "103.171.244.235"
+  port: 1080
+  ping: 7303
+  protocols:
+  - type: "http"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "103.177.20.1"
+  port: 5678
+  ping: 931
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "103.197.205.80"
+  port: 443
+  ping: 953
+  protocols:
+  - type: "socks4"
+    port: 443
+    tls: true
+    autoRead:
+    - false
+- ip: "103.205.183.18"
+  port: 55443
+  ping: 3618
+  protocols:
+  - type: "http"
+    port: 55443
+    tls: true
+    autoRead:
+    - false
+- ip: "103.207.98.13"
+  port: 41238
+  ping: 661
+  protocols:
+  - type: "socks4"
+    port: 41238
+    tls: true
+    autoRead:
+    - false
+- ip: "103.210.29.100"
+  port: 31433
+  ping: 624
+  protocols:
+  - type: "socks4"
+    port: 31433
+    tls: true
+    autoRead:
+    - false
+- ip: "103.210.29.201"
+  port: 31433
+  ping: 834
+  protocols:
+  - type: "socks4"
+    port: 31433
+    tls: true
+    autoRead:
+    - false
+- ip: "103.210.35.62"
+  port: 4145
+  ping: 591
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "103.210.35.98"
+  port: 4145
+  ping: 672
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "103.214.235.243"
+  port: 4145
+  ping: 507
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "103.216.82.20"
+  port: 6667
+  ping: 1998
+  protocols:
+  - type: "socks4"
+    port: 6667
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 6666
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 6667
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 6666
+    tls: true
+    autoRead:
+    - false
+- ip: "103.221.254.102"
+  port: 48146
+  ping: 5800
+  protocols:
+  - type: "http"
+    port: 48146
+    tls: true
+    autoRead:
+    - false
+- ip: "103.233.152.179"
+  port: 1080
+  ping: 560
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "103.234.26.242"
+  port: 1080
+  ping: 591
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "103.236.161.17"
+  port: 5430
+  ping: 832
+  protocols:
+  - type: "socks4"
+    port: 5430
+    tls: true
+    autoRead:
+    - false
+- ip: "103.239.201.86"
+  port: 1337
+  ping: 3193
+  protocols:
+  - type: "http"
+    port: 1337
+    tls: true
+    autoRead:
+    - false
+- ip: "103.240.33.153"
+  port: 8291
+  ping: 780
+  protocols:
+  - type: "socks4"
+    port: 8291
+    tls: true
+    autoRead:
+    - false
+- ip: "103.247.13.178"
+  port: 1080
+  ping: 811
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "103.250.153.202"
+  port: 41889
+  ping: 566
+  protocols:
+  - type: "socks4"
+    port: 41889
+    tls: true
+    autoRead:
+    - false
+- ip: "103.254.94.154"
+  port: 5678
+  ping: 760
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "104.192.202.11"
+  port: 8080
+  ping: 1343
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "105.29.64.195"
+  port: 40400
+  ping: 1137
+  protocols:
+  - type: "socks4"
+    port: 40400
+    tls: true
+    autoRead:
+    - false
+- ip: "105.112.135.162"
+  port: 8080
+  ping: 359
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "106.14.255.124"
+  port: 80
+  ping: 260
+  protocols:
+  - type: "socks5"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+- ip: "106.38.113.227"
+  port: 7300
+  ping: 7377
+  protocols:
+  - type: "socks5"
+    port: 7300
+    tls: true
+    autoRead:
+    - false
+- ip: "106.245.183.58"
+  port: 4145
+  ping: 944
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "108.175.23.49"
+  port: 13135
+  ping: 623
+  protocols:
+  - type: "socks4"
+    port: 13135
+    tls: true
+    autoRead:
+    - false
+- ip: "109.73.178.197"
+  port: 5678
+  ping: 274
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "109.73.191.220"
+  port: 5678
+  ping: 901
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "109.75.42.82"
+  port: 3629
+  ping: 270
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "109.87.130.6"
+  port: 5678
+  ping: 357
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "109.111.242.142"
+  port: 1080
+  ping: 236
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "109.121.50.69"
+  port: 1080
+  ping: 250
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "109.191.95.82"
+  port: 3629
+  ping: 314
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "109.232.106.150"
+  port: 52435
+  ping: 355
+  protocols:
+  - type: "socks4"
+    port: 52435
+    tls: true
+    autoRead:
+    - false
+- ip: "109.238.219.241"
+  port: 4153
+  ping: 299
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "110.74.195.34"
+  port: 25
+  ping: 3262
+  protocols:
+  - type: "https"
+    port: 25
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 25
+    tls: true
+    autoRead:
+    - false
+- ip: "110.77.135.70"
+  port: 4145
+  ping: 848
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "110.78.22.40"
+  port: 8080
+  ping: 1252
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "110.78.81.107"
+  port: 8080
+  ping: 1860
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "111.3.116.44"
+  port: 30001
+  ping: 1610
+  protocols:
+  - type: "socks5"
+    port: 30001
+    tls: false
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 30001
+    tls: false
+    autoRead:
+    - false
+- ip: "112.2.21.18"
+  port: 51080
+  ping: 1311
+  protocols:
+  - type: "socks4"
+    port: 51080
+    tls: true
+    autoRead:
+    - false
+- ip: "112.6.117.135"
+  port: 8085
+  ping: 212
+  protocols:
+  - type: "socks5"
+    port: 8085
+    tls: false
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 8085
+    tls: false
+    autoRead:
+    - false
+- ip: "112.6.117.178"
+  port: 8085
+  ping: 209
+  protocols:
+  - type: "socks5"
+    port: 8085
+    tls: false
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 8085
+    tls: false
+    autoRead:
+    - false
+- ip: "112.78.138.163"
+  port: 5678
+  ping: 543
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "113.53.29.218"
+  port: 33885
+  ping: 1071
+  protocols:
+  - type: "https"
+    port: 33885
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 45189
+    tls: true
+    autoRead:
+    - false
+- ip: "113.108.247.146"
+  port: 20086
+  ping: 541
+  protocols:
+  - type: "socks5"
+    port: 20086
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 20086
+    tls: true
+    autoRead:
+    - false
+- ip: "113.160.182.236"
+  port: 19132
+  ping: 593
+  protocols:
+  - type: "https"
+    port: 19132
+    tls: true
+    autoRead:
+    - false
+- ip: "113.161.89.151"
+  port: 5678
+  ping: 437
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "113.161.248.10"
+  port: 1080
+  ping: 555
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "113.162.84.219"
+  port: 1080
+  ping: 665
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "114.7.97.193"
+  port: 4145
+  ping: 1180
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "114.141.61.5"
+  port: 4145
+  ping: 939
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "114.249.115.67"
+  port: 9000
+  ping: 586
+  protocols:
+  - type: "https"
+    port: 9000
+    tls: true
+    autoRead:
+    - false
+- ip: "115.69.214.66"
+  port: 5678
+  ping: 772
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "115.85.84.163"
+  port: 5678
+  ping: 633
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "115.85.93.178"
+  port: 5678
+  ping: 771
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "115.127.121.202"
+  port: 5678
+  ping: 896
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "115.242.248.226"
+  port: 5678
+  ping: 856
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "116.58.68.170"
+  port: 5678
+  ping: 536
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "116.58.122.50"
+  port: 5678
+  ping: 612
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "116.212.142.231"
+  port: 33427
+  ping: 1386
+  protocols:
+  - type: "socks5"
+    port: 33427
+    tls: true
+    autoRead:
+    - false
+- ip: "116.212.156.156"
+  port: 5678
+  ping: 763
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "117.102.72.114"
+  port: 4153
+  ping: 470
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "117.102.84.142"
+  port: 443
+  ping: 2732
+  protocols:
+  - type: "socks5"
+    port: 443
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 443
+    tls: true
+    autoRead:
+    - false
+- ip: "117.102.89.74"
+  port: 5678
+  ping: 488
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "117.102.114.2"
+  port: 7890
+  ping: 888
+  protocols:
+  - type: "socks4"
+    port: 7890
+    tls: true
+    autoRead:
+    - false
+- ip: "117.190.245.124"
+  port: 7302
+  ping: 1066
+  protocols:
+  - type: "socks5"
+    port: 7302
+    tls: true
+    autoRead:
+    - false
+- ip: "118.70.81.207"
+  port: 4153
+  ping: 440
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "118.70.124.34"
+  port: 5678
+  ping: 460
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "118.99.96.173"
+  port: 8080
+  ping: 5989
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "118.173.56.31"
+  port: 80
+  ping: 490
+  protocols:
+  - type: "http"
+    port: 80
+    tls: true
+    autoRead:
+    - false
+- ip: "118.174.14.65"
+  port: 44336
+  ping: 622
+  protocols:
+  - type: "socks4"
+    port: 44336
+    tls: true
+    autoRead:
+    - false
+- ip: "119.15.89.87"
+  port: 5678
+  ping: 1545
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "119.18.159.14"
+  port: 5678
+  ping: 1700
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "119.76.142.164"
+  port: 8080
+  ping: 895
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "119.92.71.123"
+  port: 5678
+  ping: 586
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "119.110.72.2"
+  port: 3888
+  ping: 3047
+  protocols:
+  - type: "https"
+    port: 3888
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 3888
+    tls: true
+    autoRead:
+    - false
+- ip: "119.136.16.70"
+  port: 8326
+  ping: 1952
+  protocols:
+  - type: "socks4"
+    port: 8326
+    tls: true
+    autoRead:
+    - false
+- ip: "119.235.50.38"
+  port: 4153
+  ping: 718
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "120.194.222.212"
+  port: 9091
+  ping: 224
+  protocols:
+  - type: "socks4"
+    port: 9091
+    tls: false
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 9091
+    tls: false
+    autoRead:
+    - false
+- ip: "120.220.220.95"
+  port: 8085
+  ping: 224
+  protocols:
+  - type: "socks5"
+    port: 8085
+    tls: false
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 8085
+    tls: false
+    autoRead:
+    - false
+- ip: "121.156.109.108"
+  port: 8080
+  ping: 628
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "121.199.78.228"
+  port: 8888
+  ping: 261
+  protocols:
+  - type: "socks5"
+    port: 8888
+    tls: false
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 8888
+    tls: false
+    autoRead:
+    - false
+- ip: "122.3.207.17"
+  port: 5678
+  ping: 457
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "122.50.6.186"
+  port: 8080
+  ping: 1102
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "122.140.245.150"
+  port: 60512
+  ping: 3472
+  protocols:
+  - type: "socks5"
+    port: 60512
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 60512
+    tls: true
+    autoRead:
+    - false
+- ip: "122.200.144.132"
+  port: 3629
+  ping: 745
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "123.31.12.41"
+  port: 37985
+  ping: 3438
+  protocols:
+  - type: "socks5"
+    port: 37985
+    tls: true
+    autoRead:
+    - false
+- ip: "123.185.68.6"
+  port: 5678
+  ping: 242
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: false
+    autoRead:
+    - false
+- ip: "123.201.21.234"
+  port: 8080
+  ping: 1427
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "123.203.156.224"
+  port: 65528
+  ping: 781
+  protocols:
+  - type: "socks4"
+    port: 65528
+    tls: true
+    autoRead:
+    - false
+- ip: "123.231.230.58"
+  port: 31196
+  ping: 452
+  protocols:
+  - type: "socks4"
+    port: 31196
+    tls: true
+    autoRead:
+    - false
+- ip: "124.67.161.108"
+  port: 7300
+  ping: 3135
+  protocols:
+  - type: "socks5"
+    port: 7300
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 7302
+    tls: true
+    autoRead:
+    - false
+- ip: "124.126.18.167"
+  port: 8000
+  ping: 3185
+  protocols:
+  - type: "socks4"
+    port: 8000
+    tls: true
+    autoRead:
+    - false
+- ip: "124.158.152.138"
+  port: 8081
+  ping: 1292
+  protocols:
+  - type: "http"
+    port: 8081
+    tls: true
+    autoRead:
+    - false
+- ip: "124.167.248.230"
+  port: 1080
+  ping: 330
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: false
+    autoRead:
+    - false
+- ip: "124.248.190.237"
+  port: 5678
+  ping: 659
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "125.25.57.76"
+  port: 4145
+  ping: 563
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "125.25.82.190"
+  port: 8080
+  ping: 4059
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "125.26.4.197"
+  port: 4145
+  ping: 630
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "125.26.5.41"
+  port: 4153
+  ping: 528
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "125.141.133.99"
+  port: 5566
+  ping: 11401
+  protocols:
+  - type: "socks4"
+    port: 5566
+    tls: true
+    autoRead:
+    - false
+- ip: "128.201.134.13"
+  port: 1080
+  ping: 1098
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "130.193.123.34"
+  port: 5678
+  ping: 292
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "131.100.51.18"
+  port: 999
+  ping: 3020
+  protocols:
+  - type: "http"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "131.161.53.38"
+  port: 1994
+  ping: 691
+  protocols:
+  - type: "http"
+    port: 1994
+    tls: true
+    autoRead:
+    - false
+- ip: "134.0.62.92"
+  port: 1723
+  ping: 681
+  protocols:
+  - type: "socks4"
+    port: 1723
+    tls: true
+    autoRead:
+    - false
+- ip: "134.236.242.161"
+  port: 4153
+  ping: 719
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "134.249.151.4"
+  port: 54965
+  ping: 457
+  protocols:
+  - type: "socks4"
+    port: 54965
+    tls: true
+    autoRead:
+    - false
+- ip: "135.148.15.113"
+  port: 3175
+  ping: 1790
+  protocols:
+  - type: "http"
+    port: 3175
+    tls: true
+    autoRead:
+    - false
+- ip: "135.181.48.41"
+  port: 4444
+  ping: 598
+  protocols:
+  - type: "socks4"
+    port: 4444
+    tls: true
+    autoRead:
+    - false
+- ip: "136.232.125.70"
+  port: 5678
+  ping: 516
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "137.184.136.135"
+  port: 3128
+  ping: 590
+  protocols:
+  - type: "http"
+    port: 3128
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 3128
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 3785
+    tls: true
+    autoRead:
+    - false
+- ip: "138.68.51.109"
+  port: 9050
+  ping: 2378
+  protocols:
+  - type: "socks5"
+    port: 9050
+    tls: true
+    autoRead:
+    - false
+- ip: "138.68.57.62"
+  port: 9050
+  ping: 4691
+  protocols:
+  - type: "socks5"
+    port: 9050
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 9050
+    tls: true
+    autoRead:
+    - false
+- ip: "138.68.252.165"
+  port: 9050
+  ping: 8379
+  protocols:
+  - type: "socks4"
+    port: 9050
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 9050
+    tls: true
+    autoRead:
+    - false
+- ip: "138.117.84.65"
+  port: 999
+  ping: 814
+  protocols:
+  - type: "http"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "138.117.231.129"
+  port: 999
+  ping: 4917
+  protocols:
+  - type: "https"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "138.121.113.164"
+  port: 999
+  ping: 1422
+  protocols:
+  - type: "http"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "138.121.161.172"
+  port: 999
+  ping: 1220
+  protocols:
+  - type: "https"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "138.122.147.122"
+  port: 8080
+  ping: 1746
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "138.197.217.238"
+  port: 9050
+  ping: 2777
+  protocols:
+  - type: "socks5"
+    port: 9050
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 9050
+    tls: true
+    autoRead:
+    - false
+- ip: "138.219.50.170"
+  port: 4145
+  ping: 1002
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "138.219.216.142"
+  port: 999
+  ping: 1933
+  protocols:
+  - type: "http"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "138.255.240.66"
+  port: 41466
+  ping: 786
+  protocols:
+  - type: "https"
+    port: 41466
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 40736
+    tls: true
+    autoRead:
+    - false
+- ip: "139.59.126.78"
+  port: 3128
+  ping: 569
+  protocols:
+  - type: "http"
+    port: 3128
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "139.255.94.122"
+  port: 57853
+  ping: 2917
+  protocols:
+  - type: "socks4"
+    port: 57853
+    tls: true
+    autoRead:
+    - false
+- ip: "139.255.123.3"
+  port: 8080
+  ping: 1655
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "144.217.7.157"
+  port: 5566
+  ping: 4595
+  protocols:
+  - type: "https"
+    port: 5566
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 5566
+    tls: true
+    autoRead:
+    - false
+- ip: "146.196.107.142"
+  port: 63123
+  ping: 1707
+  protocols:
+  - type: "https"
+    port: 63123
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 63123
+    tls: true
+    autoRead:
+    - false
+- ip: "147.135.112.67"
+  port: 3080
+  ping: 2235
+  protocols:
+  - type: "socks5"
+    port: 3080
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 3081
+    tls: true
+    autoRead:
+    - false
+- ip: "147.135.134.57"
+  port: 9300
+  ping: 475
+  protocols:
+  - type: "https"
+    port: 9300
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 9300
+    tls: true
+    autoRead:
+    - false
+- ip: "149.20.253.47"
+  port: 12551
+  ping: 518
+  protocols:
+  - type: "socks4"
+    port: 12551
+    tls: true
+    autoRead:
+    - false
+- ip: "150.107.207.137"
+  port: 57230
+  ping: 619
+  protocols:
+  - type: "socks4"
+    port: 57230
+    tls: true
+    autoRead:
+    - false
+- ip: "150.109.151.195"
+  port: 8080
+  ping: 290
+  protocols:
+  - type: "socks5"
+    port: 8080
+    tls: false
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 8080
+    tls: false
+    autoRead:
+    - false
+- ip: "150.158.13.89"
+  port: 7891
+  ping: 1221
+  protocols:
+  - type: "socks5"
+    port: 7891
+    tls: true
+    autoRead:
+    - false
+- ip: "152.231.25.196"
+  port: 60080
+  ping: 2148
+  protocols:
+  - type: "https"
+    port: 60080
+    tls: true
+    autoRead:
+    - false
+- ip: "154.64.217.128"
+  port: 36468
+  ping: 433
+  protocols:
+  - type: "socks4"
+    port: 36468
+    tls: true
+    autoRead:
+    - false
+- ip: "154.79.248.156"
+  port: 5678
+  ping: 825
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "154.79.252.226"
+  port: 5678
+  ping: 770
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "155.0.181.254"
+  port: 41174
+  ping: 757
+  protocols:
+  - type: "socks4"
+    port: 41174
+    tls: true
+    autoRead:
+    - false
+- ip: "155.133.83.253"
+  port: 58351
+  ping: 153
+  protocols:
+  - type: "socks4"
+    port: 58351
+    tls: true
+    autoRead:
+    - false
+- ip: "157.100.12.138"
+  port: 999
+  ping: 472
+  protocols:
+  - type: "http"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "157.100.53.102"
+  port: 999
+  ping: 1928
+  protocols:
+  - type: "http"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "157.100.144.27"
+  port: 999
+  ping: 1497
+  protocols:
+  - type: "http"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "157.230.13.159"
+  port: 80
+  ping: 75
+  protocols:
+  - type: "socks4"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+- ip: "159.65.106.46"
+  port: 9050
+  ping: 10780
+  protocols:
+  - type: "socks4"
+    port: 9050
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 9050
+    tls: true
+    autoRead:
+    - false
+- ip: "159.203.61.169"
+  port: 3128
+  ping: 83
+  protocols:
+  - type: "socks5"
+    port: 3128
+    tls: false
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 3128
+    tls: false
+    autoRead:
+    - false
+- ip: "161.49.91.13"
+  port: 1337
+  ping: 891
+  protocols:
+  - type: "http"
+    port: 1337
+    tls: true
+    autoRead:
+    - false
+- ip: "161.49.176.173"
+  port: 1337
+  ping: 2134
+  protocols:
+  - type: "https"
+    port: 1337
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 1337
+    tls: true
+    autoRead:
+    - false
+- ip: "162.62.179.66"
+  port: 33036
+  ping: 4226
+  protocols:
+  - type: "socks4"
+    port: 33036
+    tls: true
+    autoRead:
+    - false
+- ip: "162.150.62.96"
+  port: 443
+  ping: 401
+  protocols:
+  - type: "socks5"
+    port: 443
+    tls: false
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 443
+    tls: false
+    autoRead:
+    - false
+- ip: "163.53.205.225"
+  port: 4153
+  ping: 490
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "163.53.210.13"
+  port: 5678
+  ping: 751
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "164.92.233.192"
+  port: 8118
+  ping: 6214
+  protocols:
+  - type: "https"
+    port: 8118
+    tls: true
+    autoRead:
+    - false
+- ip: "164.155.145.1"
+  port: 80
+  ping: 146
+  protocols:
+  - type: "http"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+- ip: "164.155.147.31"
+  port: 80
+  ping: 151
+  protocols:
+  - type: "http"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+- ip: "164.155.148.1"
+  port: 80
+  ping: 147
+  protocols:
+  - type: "http"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+- ip: "164.155.151.31"
+  port: 80
+  ping: 150
+  protocols:
+  - type: "http"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+- ip: "165.16.27.31"
+  port: 1981
+  ping: 1754
+  protocols:
+  - type: "https"
+    port: 1981
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 1981
+    tls: true
+    autoRead:
+    - false
+- ip: "165.16.30.161"
+  port: 8080
+  ping: 3642
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "165.16.54.194"
+  port: 31618
+  ping: 204
+  protocols:
+  - type: "socks4"
+    port: 31618
+    tls: true
+    autoRead:
+    - false
+- ip: "165.225.206.227"
+  port: 10192
+  ping: 88
+  protocols:
+  - type: "http"
+    port: 10192
+    tls: true
+    autoRead:
+    - false
+- ip: "167.114.96.27"
+  port: 9300
+  ping: 982
+  protocols:
+  - type: "https"
+    port: 9300
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 9300
+    tls: true
+    autoRead:
+    - false
+- ip: "168.0.8.45"
+  port: 4153
+  ping: 1087
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "168.90.14.162"
+  port: 999
+  ping: 5665
+  protocols:
+  - type: "https"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "168.194.248.115"
+  port: 4153
+  ping: 829
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "168.227.158.57"
+  port: 4145
+  ping: 767
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "169.46.126.192"
+  port: 80
+  ping: 133
+  protocols:
+  - type: "http"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+- ip: "170.80.33.103"
+  port: 5678
+  ping: 1008
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "170.80.71.78"
+  port: 5678
+  ping: 697
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "170.80.202.234"
+  port: 999
+  ping: 1277
+  protocols:
+  - type: "http"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "170.80.202.247"
+  port: 999
+  ping: 2172
+  protocols:
+  - type: "http"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "170.84.82.62"
+  port: 4145
+  ping: 1014
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "171.103.58.122"
+  port: 8080
+  ping: 485
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "174.77.111.196"
+  port: 4145
+  ping: 771
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "175.100.87.209"
+  port: 5678
+  ping: 715
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "175.101.18.25"
+  port: 5678
+  ping: 512
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "176.31.7.185"
+  port: 8080
+  ping: 1990
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "176.112.162.96"
+  port: 3629
+  ping: 728
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "176.115.197.118"
+  port: 8080
+  ping: 5085
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "176.118.50.237"
+  port: 53281
+  ping: 2564
+  protocols:
+  - type: "https"
+    port: 53281
+    tls: true
+    autoRead:
+    - false
+- ip: "176.118.50.238"
+  port: 53281
+  ping: 1747
+  protocols:
+  - type: "https"
+    port: 53281
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 53281
+    tls: true
+    autoRead:
+    - false
+- ip: "176.120.32.135"
+  port: 5678
+  ping: 515
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "176.123.218.6"
+  port: 18080
+  ping: 226
+  protocols:
+  - type: "socks4"
+    port: 18080
+    tls: true
+    autoRead:
+    - false
+- ip: "176.241.92.39"
+  port: 54331
+  ping: 1357
+  protocols:
+  - type: "socks4"
+    port: 54331
+    tls: true
+    autoRead:
+    - false
+- ip: "177.10.84.121"
+  port: 4145
+  ping: 858
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "177.12.177.2"
+  port: 4153
+  ping: 955
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "177.12.177.53"
+  port: 4153
+  ping: 689
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "177.12.178.37"
+  port: 4153
+  ping: 986
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "177.36.185.180"
+  port: 5678
+  ping: 1184
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "177.36.221.37"
+  port: 5678
+  ping: 921
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "177.53.152.137"
+  port: 999
+  ping: 2777
+  protocols:
+  - type: "https"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "177.53.221.89"
+  port: 44196
+  ping: 855
+  protocols:
+  - type: "socks4"
+    port: 44196
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 39310
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 39310
+    tls: true
+    autoRead:
+    - false
+- ip: "177.64.119.132"
+  port: 5678
+  ping: 1134
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "177.72.113.225"
+  port: 31164
+  ping: 1030
+  protocols:
+  - type: "socks4"
+    port: 31164
+    tls: true
+    autoRead:
+    - false
+- ip: "177.73.248.38"
+  port: 55290
+  ping: 677
+  protocols:
+  - type: "socks4"
+    port: 55290
+    tls: true
+    autoRead:
+    - false
+- ip: "177.74.136.6"
+  port: 5678
+  ping: 718
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "177.74.136.33"
+  port: 5678
+  ping: 1080
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "177.99.225.91"
+  port: 4153
+  ping: 813
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "177.125.161.79"
+  port: 4145
+  ping: 1762
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "177.125.227.86"
+  port: 4145
+  ping: 832
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "177.136.34.26"
+  port: 4153
+  ping: 607
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "177.137.207.124"
+  port: 4153
+  ping: 761
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "177.139.130.157"
+  port: 4153
+  ping: 739
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "177.220.243.130"
+  port: 4153
+  ping: 764
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "177.223.63.26"
+  port: 52104
+  ping: 832
+  protocols:
+  - type: "socks4"
+    port: 52104
+    tls: true
+    autoRead:
+    - false
+- ip: "178.48.68.61"
+  port: 4145
+  ping: 180
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "178.62.87.72"
+  port: 47913
+  ping: 2687
+  protocols:
+  - type: "socks4"
+    port: 47913
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 47913
+    tls: true
+    autoRead:
+    - false
+- ip: "178.76.254.130"
+  port: 4145
+  ping: 474
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "178.205.251.134"
+  port: 4153
+  ping: 417
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "178.212.55.61"
+  port: 1080
+  ping: 845
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "178.212.65.61"
+  port: 3629
+  ping: 488
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "178.212.98.200"
+  port: 44550
+  ping: 182
+  protocols:
+  - type: "socks4"
+    port: 44550
+    tls: true
+    autoRead:
+    - false
+- ip: "179.40.95.5"
+  port: 999
+  ping: 2608
+  protocols:
+  - type: "https"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "179.40.95.8"
+  port: 999
+  ping: 2247
+  protocols:
+  - type: "https"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "179.93.65.233"
+  port: 8080
+  ping: 2787
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "179.191.13.21"
+  port: 4153
+  ping: 837
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "179.191.15.110"
+  port: 5678
+  ping: 708
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "180.94.64.114"
+  port: 5678
+  ping: 994
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "180.167.238.98"
+  port: 7302
+  ping: 1521
+  protocols:
+  - type: "socks5"
+    port: 7302
+    tls: true
+    autoRead:
+    - false
+- ip: "180.168.152.206"
+  port: 7302
+  ping: 1075
+  protocols:
+  - type: "socks5"
+    port: 7302
+    tls: true
+    autoRead:
+    - false
+- ip: "180.210.222.205"
+  port: 1080
+  ping: 555
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "181.48.107.93"
+  port: 4153
+  ping: 575
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "181.129.14.166"
+  port: 999
+  ping: 1741
+  protocols:
+  - type: "https"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "181.143.37.90"
+  port: 8181
+  ping: 5322
+  protocols:
+  - type: "http"
+    port: 8181
+    tls: true
+    autoRead:
+    - false
+- ip: "181.143.45.18"
+  port: 4153
+  ping: 558
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "181.209.86.187"
+  port: 8080
+  ping: 2353
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "181.209.111.166"
+  port: 4153
+  ping: 788
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "181.224.207.20"
+  port: 999
+  ping: 2708
+  protocols:
+  - type: "http"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "181.224.255.41"
+  port: 8080
+  ping: 2011
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "182.16.240.49"
+  port: 30617
+  ping: 832
+  protocols:
+  - type: "socks4"
+    port: 30617
+    tls: true
+    autoRead:
+    - false
+- ip: "182.42.92.239"
+  port: 51800
+  ping: 12036
+  protocols:
+  - type: "socks4"
+    port: 51800
+    tls: true
+    autoRead:
+    - false
+- ip: "182.61.201.201"
+  port: 80
+  ping: 229
+  protocols:
+  - type: "socks4"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+- ip: "182.75.132.106"
+  port: 5678
+  ping: 711
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "182.92.77.108"
+  port: 8081
+  ping: 169
+  protocols:
+  - type: "socks4"
+    port: 8081
+    tls: false
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 8081
+    tls: false
+    autoRead:
+    - false
+- ip: "182.93.85.49"
+  port: 5678
+  ping: 887
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "182.101.207.11"
+  port: 8080
+  ping: 2012
+  protocols:
+  - type: "socks5"
+    port: 8080
+    tls: false
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 8080
+    tls: false
+    autoRead:
+    - false
+- ip: "182.160.121.99"
+  port: 10800
+  ping: 826
+  protocols:
+  - type: "socks4"
+    port: 10800
+    tls: true
+    autoRead:
+    - false
+- ip: "182.176.104.101"
+  port: 5678
+  ping: 739
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "183.247.194.229"
+  port: 30001
+  ping: 252
+  protocols:
+  - type: "socks4"
+    port: 30001
+    tls: false
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 30001
+    tls: false
+    autoRead:
+    - false
+- ip: "183.247.199.51"
+  port: 30001
+  ping: 220
+  protocols:
+  - type: "socks5"
+    port: 30001
+    tls: false
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 30001
+    tls: false
+    autoRead:
+    - false
+- ip: "183.247.215.218"
+  port: 30001
+  ping: 216
+  protocols:
+  - type: "socks5"
+    port: 30001
+    tls: false
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 30001
+    tls: false
+    autoRead:
+    - false
+- ip: "184.178.172.3"
+  port: 4145
+  ping: 845
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "184.178.172.5"
+  port: 15303
+  ping: 635
+  protocols:
+  - type: "socks5"
+    port: 15303
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 15303
+    tls: true
+    autoRead:
+    - false
+- ip: "184.178.172.11"
+  port: 4145
+  ping: 863
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "184.178.172.13"
+  port: 15311
+  ping: 755
+  protocols:
+  - type: "socks4"
+    port: 15311
+    tls: true
+    autoRead:
+    - false
+- ip: "184.178.172.14"
+  port: 4145
+  ping: 839
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "184.178.172.17"
+  port: 4145
+  ping: 1477
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "184.178.172.18"
+  port: 15280
+  ping: 487
+  protocols:
+  - type: "socks5"
+    port: 15280
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 15280
+    tls: true
+    autoRead:
+    - false
+- ip: "184.178.172.23"
+  port: 4145
+  ping: 783
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "184.178.172.26"
+  port: 4145
+  ping: 768
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "184.178.172.28"
+  port: 15294
+  ping: 493
+  protocols:
+  - type: "socks4"
+    port: 15294
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 15294
+    tls: true
+    autoRead:
+    - false
+- ip: "184.181.217.194"
+  port: 4145
+  ping: 765
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "184.181.217.201"
+  port: 4145
+  ping: 843
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "184.181.217.206"
+  port: 4145
+  ping: 855
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "184.181.217.210"
+  port: 4145
+  ping: 635
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "184.181.217.220"
+  port: 4145
+  ping: 782
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "185.26.144.197"
+  port: 35581
+  ping: 966
+  protocols:
+  - type: "socks4"
+    port: 35581
+    tls: true
+    autoRead:
+    - false
+- ip: "185.28.108.181"
+  port: 35130
+  ping: 783
+  protocols:
+  - type: "socks4"
+    port: 35130
+    tls: true
+    autoRead:
+    - false
+- ip: "185.47.184.253"
+  port: 45463
+  ping: 154
+  protocols:
+  - type: "socks4"
+    port: 45463
+    tls: true
+    autoRead:
+    - false
+- ip: "185.136.150.252"
+  port: 4145
+  ping: 505
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "185.136.151.138"
+  port: 5678
+  ping: 739
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 41890
+    tls: true
+    autoRead:
+    - false
+- ip: "185.136.151.252"
+  port: 5678
+  ping: 345
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "185.139.56.133"
+  port: 4145
+  ping: 367
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "185.152.12.49"
+  port: 54680
+  ping: 289
+  protocols:
+  - type: "socks4"
+    port: 54680
+    tls: true
+    autoRead:
+    - false
+- ip: "185.184.52.113"
+  port: 8080
+  ping: 5717
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "185.190.90.2"
+  port: 4145
+  ping: 350
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "185.200.38.235"
+  port: 10820
+  ping: 405
+  protocols:
+  - type: "socks5"
+    port: 10820
+    tls: true
+    autoRead:
+    - false
+- ip: "185.206.80.208"
+  port: 10801
+  ping: 706
+  protocols:
+  - type: "socks4"
+    port: 10801
+    tls: true
+    autoRead:
+    - false
+- ip: "185.213.156.226"
+  port: 51971
+  ping: 220
+  protocols:
+  - type: "socks4"
+    port: 51971
+    tls: true
+    autoRead:
+    - false
+- ip: "185.230.105.146"
+  port: 4145
+  ping: 577
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "185.237.10.250"
+  port: 20213
+  ping: 887
+  protocols:
+  - type: "socks5"
+    port: 20213
+    tls: true
+    autoRead:
+    - false
+- ip: "186.86.137.96"
+  port: 5678
+  ping: 708
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "186.87.179.54"
+  port: 5678
+  ping: 487
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "186.96.56.9"
+  port: 999
+  ping: 922
+  protocols:
+  - type: "http"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "186.248.89.6"
+  port: 5005
+  ping: 2222
+  protocols:
+  - type: "http"
+    port: 5005
+    tls: true
+    autoRead:
+    - false
+- ip: "187.37.121.236"
+  port: 4153
+  ping: 788
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "187.44.146.2"
+  port: 32139
+  ping: 628
+  protocols:
+  - type: "socks4"
+    port: 32139
+    tls: true
+    autoRead:
+    - false
+- ip: "187.60.66.45"
+  port: 5678
+  ping: 671
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "187.86.129.122"
+  port: 63253
+  ping: 1078
+  protocols:
+  - type: "socks4"
+    port: 63253
+    tls: true
+    autoRead:
+    - false
+- ip: "187.95.82.146"
+  port: 3629
+  ping: 1051
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "187.102.67.230"
+  port: 4145
+  ping: 991
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "187.122.248.194"
+  port: 5678
+  ping: 1822
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "187.130.139.197"
+  port: 37812
+  ping: 462
+  protocols:
+  - type: "socks4"
+    port: 37812
+    tls: true
+    autoRead:
+    - false
+- ip: "187.177.30.154"
+  port: 4145
+  ping: 566
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "187.189.81.144"
+  port: 4153
+  ping: 418
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "187.210.136.88"
+  port: 4153
+  ping: 463
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "187.243.253.182"
+  port: 43015
+  ping: 491
+  protocols:
+  - type: "socks4"
+    port: 43015
+    tls: true
+    autoRead:
+    - false
+- ip: "188.18.10.140"
+  port: 5678
+  ping: 555
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "188.64.113.104"
+  port: 1080
+  ping: 425
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "188.124.46.55"
+  port: 5678
+  ping: 483
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "188.126.45.161"
+  port: 4153
+  ping: 209
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "188.134.1.49"
+  port: 3629
+  ping: 192
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "188.138.139.216"
+  port: 4145
+  ping: 373
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "188.169.142.196"
+  port: 4145
+  ping: 815
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "188.173.80.140"
+  port: 5678
+  ping: 563
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "190.0.17.66"
+  port: 8080
+  ping: 2762
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "190.11.198.89"
+  port: 4153
+  ping: 918
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "190.26.201.194"
+  port: 8080
+  ping: 611
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "190.55.254.234"
+  port: 4153
+  ping: 1068
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "190.63.35.30"
+  port: 9812
+  ping: 1280
+  protocols:
+  - type: "https"
+    port: 9812
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 9812
+    tls: true
+    autoRead:
+    - false
+- ip: "190.103.86.254"
+  port: 8080
+  ping: 6035
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "190.107.232.138"
+  port: 999
+  ping: 1654
+  protocols:
+  - type: "http"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "190.109.2.90"
+  port: 4145
+  ping: 428
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "190.109.72.241"
+  port: 33633
+  ping: 852
+  protocols:
+  - type: "socks4"
+    port: 33633
+    tls: true
+    autoRead:
+    - false
+- ip: "190.110.165.124"
+  port: 5678
+  ping: 814
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "190.113.42.73"
+  port: 999
+  ping: 2033
+  protocols:
+  - type: "https"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "190.119.167.154"
+  port: 5678
+  ping: 640
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "190.119.235.210"
+  port: 4153
+  ping: 742
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "190.128.231.146"
+  port: 8080
+  ping: 2646
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "190.181.23.10"
+  port: 4153
+  ping: 808
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "190.182.88.214"
+  port: 30956
+  ping: 491
+  protocols:
+  - type: "socks4"
+    port: 30956
+    tls: true
+    autoRead:
+    - false
+- ip: "190.196.20.166"
+  port: 44907
+  ping: 861
+  protocols:
+  - type: "socks4"
+    port: 44907
+    tls: true
+    autoRead:
+    - false
+- ip: "190.226.241.66"
+  port: 3629
+  ping: 1256
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "190.228.134.14"
+  port: 4153
+  ping: 973
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "190.239.24.76"
+  port: 5678
+  ping: 694
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "191.5.205.172"
+  port: 5678
+  ping: 900
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "191.7.208.101"
+  port: 31576
+  ping: 823
+  protocols:
+  - type: "socks4"
+    port: 31576
+    tls: true
+    autoRead:
+    - false
+- ip: "191.97.2.198"
+  port: 5678
+  ping: 509
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "191.102.113.101"
+  port: 999
+  ping: 5168
+  protocols:
+  - type: "http"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "191.243.56.146"
+  port: 4153
+  ping: 1028
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "191.252.1.154"
+  port: 80
+  ping: 499
+  protocols:
+  - type: "http"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+- ip: "192.111.130.2"
+  port: 4145
+  ping: 818
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "192.111.130.5"
+  port: 17002
+  ping: 641
+  protocols:
+  - type: "socks4"
+    port: 17002
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 17002
+    tls: true
+    autoRead:
+    - false
+- ip: "192.111.135.17"
+  port: 18302
+  ping: 690
+  protocols:
+  - type: "socks4"
+    port: 18302
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 18302
+    tls: true
+    autoRead:
+    - false
+- ip: "192.111.135.18"
+  port: 18301
+  ping: 512
+  protocols:
+  - type: "socks5"
+    port: 18301
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 18301
+    tls: true
+    autoRead:
+    - false
+- ip: "192.111.137.34"
+  port: 18765
+  ping: 711
+  protocols:
+  - type: "socks5"
+    port: 18765
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 18765
+    tls: true
+    autoRead:
+    - false
+- ip: "192.111.137.37"
+  port: 18762
+  ping: 639
+  protocols:
+  - type: "socks5"
+    port: 18762
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 18762
+    tls: true
+    autoRead:
+    - false
+- ip: "192.111.139.162"
+  port: 4145
+  ping: 648
+  protocols:
+  - type: "socks5"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "192.252.208.70"
+  port: 14282
+  ping: 819
+  protocols:
+  - type: "socks4"
+    port: 14282
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 14282
+    tls: true
+    autoRead:
+    - false
+- ip: "192.252.215.5"
+  port: 16137
+  ping: 657
+  protocols:
+  - type: "socks5"
+    port: 16137
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 16137
+    tls: true
+    autoRead:
+    - false
+- ip: "192.252.220.92"
+  port: 17328
+  ping: 482
+  protocols:
+  - type: "socks4"
+    port: 17328
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 17328
+    tls: true
+    autoRead:
+    - false
+- ip: "193.29.63.45"
+  port: 57299
+  ping: 5200
+  protocols:
+  - type: "socks5"
+    port: 57299
+    tls: true
+    autoRead:
+    - false
+- ip: "193.40.176.52"
+  port: 4153
+  ping: 340
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "193.59.26.11"
+  port: 4153
+  ping: 1541
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "193.108.126.15"
+  port: 1080
+  ping: 379
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "194.28.56.49"
+  port: 3629
+  ping: 222
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "194.44.85.38"
+  port: 1088
+  ping: 378
+  protocols:
+  - type: "socks4"
+    port: 1088
+    tls: true
+    autoRead:
+    - false
+- ip: "194.146.110.228"
+  port: 1080
+  ping: 323
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "194.181.141.1"
+  port: 8080
+  ping: 1148
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "194.226.164.214"
+  port: 1080
+  ping: 198
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "194.233.69.38"
+  port: 443
+  ping: 3718
+  protocols:
+  - type: "https"
+    port: 443
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 443
+    tls: true
+    autoRead:
+    - false
+- ip: "194.233.73.107"
+  port: 443
+  ping: 2041
+  protocols:
+  - type: "http"
+    port: 443
+    tls: true
+    autoRead:
+    - false
+- ip: "195.2.71.201"
+  port: 16072
+  ping: 447
+  protocols:
+  - type: "socks5"
+    port: 16072
+    tls: true
+    autoRead:
+    - false
+- ip: "195.16.78.236"
+  port: 1080
+  ping: 328
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "195.49.151.180"
+  port: 3629
+  ping: 599
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "195.120.78.30"
+  port: 5678
+  ping: 182
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "195.149.98.30"
+  port: 56897
+  ping: 181
+  protocols:
+  - type: "socks4"
+    port: 56897
+    tls: true
+    autoRead:
+    - false
+- ip: "195.182.152.238"
+  port: 38178
+  ping: 2289
+  protocols:
+  - type: "http"
+    port: 38178
+    tls: true
+    autoRead:
+    - false
+- ip: "195.206.34.215"
+  port: 40674
+  ping: 1001
+  protocols:
+  - type: "socks4"
+    port: 40674
+    tls: true
+    autoRead:
+    - false
+- ip: "195.219.98.27"
+  port: 5678
+  ping: 306
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "195.242.138.20"
+  port: 5678
+  ping: 481
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "195.250.92.58"
+  port: 8080
+  ping: 7304
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "196.2.13.12"
+  port: 4153
+  ping: 3958
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "196.43.106.38"
+  port: 5678
+  ping: 2121
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "196.200.48.92"
+  port: 8080
+  ping: 1893
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "196.216.11.135"
+  port: 4673
+  ping: 5195
+  protocols:
+  - type: "socks4"
+    port: 4673
+    tls: true
+    autoRead:
+    - false
+- ip: "197.156.240.66"
+  port: 5678
+  ping: 393
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "197.157.193.219"
+  port: 8080
+  ping: 906
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "197.214.10.30"
+  port: 5678
+  ping: 2953
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "197.235.12.130"
+  port: 4145
+  ping: 1145
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "197.248.28.17"
+  port: 10801
+  ping: 657
+  protocols:
+  - type: "socks4"
+    port: 10801
+    tls: true
+    autoRead:
+    - false
+- ip: "197.255.253.33"
+  port: 5678
+  ping: 527
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "198.0.198.132"
+  port: 54321
+  ping: 664
+  protocols:
+  - type: "socks4"
+    port: 54321
+    tls: true
+    autoRead:
+    - false
+- ip: "198.8.94.174"
+  port: 39078
+  ping: 531
+  protocols:
+  - type: "socks4"
+    port: 39078
+    tls: true
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 39078
+    tls: true
+    autoRead:
+    - false
+- ip: "198.89.91.42"
+  port: 5678
+  ping: 648
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "200.0.247.82"
+  port: 4153
+  ping: 937
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "200.5.203.58"
+  port: 56142
+  ping: 1027
+  protocols:
+  - type: "socks4"
+    port: 56142
+    tls: true
+    autoRead:
+    - false
+- ip: "200.6.175.10"
+  port: 59341
+  ping: 680
+  protocols:
+  - type: "socks4"
+    port: 59341
+    tls: true
+    autoRead:
+    - false
+- ip: "200.24.207.196"
+  port: 8080
+  ping: 7079
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "200.29.109.112"
+  port: 14888
+  ping: 567
+  protocols:
+  - type: "socks4"
+    port: 14888
+    tls: true
+    autoRead:
+    - false
+- ip: "200.39.136.129"
+  port: 999
+  ping: 3081
+  protocols:
+  - type: "https"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "200.41.182.243"
+  port: 4145
+  ping: 820
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "200.42.89.50"
+  port: 4153
+  ping: 7597
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "200.58.87.194"
+  port: 808
+  ping: 2517
+  protocols:
+  - type: "https"
+    port: 808
+    tls: true
+    autoRead:
+    - false
+- ip: "200.58.212.19"
+  port: 14888
+  ping: 552
+  protocols:
+  - type: "socks4"
+    port: 14888
+    tls: true
+    autoRead:
+    - false
+- ip: "200.69.88.4"
+  port: 999
+  ping: 1188
+  protocols:
+  - type: "http"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "200.70.19.93"
+  port: 4153
+  ping: 921
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "200.71.97.1"
+  port: 80
+  ping: 880
+  protocols:
+  - type: "socks4"
+    port: 80
+    tls: true
+    autoRead:
+    - false
+- ip: "200.85.183.38"
+  port: 4145
+  ping: 2135
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "200.105.192.6"
+  port: 5678
+  ping: 1294
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "200.105.215.18"
+  port: 33630
+  ping: 1145
+  protocols:
+  - type: "https"
+    port: 33630
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 33630
+    tls: true
+    autoRead:
+    - false
+- ip: "200.106.216.50"
+  port: 63253
+  ping: 630
+  protocols:
+  - type: "socks4"
+    port: 63253
+    tls: true
+    autoRead:
+    - false
+- ip: "200.110.176.121"
+  port: 4145
+  ping: 1179
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "200.115.157.211"
+  port: 4145
+  ping: 723
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "200.118.122.6"
+  port: 4153
+  ping: 797
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "200.125.171.60"
+  port: 999
+  ping: 3514
+  protocols:
+  - type: "https"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "200.125.171.61"
+  port: 999
+  ping: 1244
+  protocols:
+  - type: "http"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "200.163.135.52"
+  port: 4153
+  ping: 818
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "200.170.196.94"
+  port: 1080
+  ping: 723
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "200.174.228.183"
+  port: 4153
+  ping: 1070
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "201.20.110.35"
+  port: 666
+  ping: 5496
+  protocols:
+  - type: "https"
+    port: 666
+    tls: true
+    autoRead:
+    - false
+- ip: "201.30.122.2"
+  port: 9812
+  ping: 4398
+  protocols:
+  - type: "http"
+    port: 9812
+    tls: true
+    autoRead:
+    - false
+- ip: "201.91.83.42"
+  port: 3629
+  ping: 956
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "201.174.239.18"
+  port: 8080
+  ping: 510
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "201.184.107.26"
+  port: 999
+  ping: 3237
+  protocols:
+  - type: "http"
+    port: 999
+    tls: true
+    autoRead:
+    - false
+- ip: "201.184.230.34"
+  port: 5678
+  ping: 585
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "201.217.245.229"
+  port: 49160
+  ping: 5617
+  protocols:
+  - type: "https"
+    port: 49160
+    tls: true
+    autoRead:
+    - false
+- ip: "201.251.90.177"
+  port: 3629
+  ping: 881
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "202.4.106.74"
+  port: 5678
+  ping: 495
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "202.5.36.215"
+  port: 4145
+  ping: 1109
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "202.5.54.70"
+  port: 4145
+  ping: 508
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "202.21.103.6"
+  port: 5678
+  ping: 406
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "202.21.115.94"
+  port: 44574
+  ping: 500
+  protocols:
+  - type: "socks4"
+    port: 44574
+    tls: true
+    autoRead:
+    - false
+- ip: "202.29.214.22"
+  port: 4153
+  ping: 541
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "202.29.226.2"
+  port: 5678
+  ping: 825
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "202.40.186.157"
+  port: 4145
+  ping: 617
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "202.50.53.32"
+  port: 5678
+  ping: 750
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "202.52.13.2"
+  port: 8089
+  ping: 5760
+  protocols:
+  - type: "https"
+    port: 8089
+    tls: true
+    autoRead:
+    - false
+- ip: "202.70.84.201"
+  port: 4153
+  ping: 553
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "202.79.40.97"
+  port: 36953
+  ping: 939
+  protocols:
+  - type: "socks4"
+    port: 36953
+    tls: true
+    autoRead:
+    - false
+- ip: "202.131.246.250"
+  port: 5678
+  ping: 376
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "202.133.91.2"
+  port: 80
+  ping: 157
+  protocols:
+  - type: "socks4"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 80
+    tls: false
+    autoRead:
+    - false
+- ip: "202.146.228.251"
+  port: 8088
+  ping: 770
+  protocols:
+  - type: "https"
+    port: 8088
+    tls: true
+    autoRead:
+    - false
+- ip: "202.150.164.146"
+  port: 5678
+  ping: 592
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "202.158.49.138"
+  port: 39172
+  ping: 791
+  protocols:
+  - type: "socks4"
+    port: 39172
+    tls: true
+    autoRead:
+    - false
+- ip: "202.169.246.55"
+  port: 4145
+  ping: 850
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "202.180.20.114"
+  port: 1080
+  ping: 606
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "203.76.103.62"
+  port: 4145
+  ping: 1018
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "203.95.220.33"
+  port: 4153
+  ping: 804
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "203.142.83.43"
+  port: 4153
+  ping: 552
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "203.205.29.108"
+  port: 5678
+  ping: 693
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "203.206.235.153"
+  port: 50042
+  ping: 866
+  protocols:
+  - type: "socks4"
+    port: 50042
+    tls: true
+    autoRead:
+    - false
+- ip: "203.217.169.100"
+  port: 6969
+  ping: 2177
+  protocols:
+  - type: "https"
+    port: 6969
+    tls: true
+    autoRead:
+    - false
+- ip: "206.42.36.67"
+  port: 4153
+  ping: 1049
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "206.43.196.31"
+  port: 55443
+  ping: 2201
+  protocols:
+  - type: "http"
+    port: 55443
+    tls: true
+    autoRead:
+    - false
+- ip: "206.189.158.86"
+  port: 443
+  ping: 241
+  protocols:
+  - type: "socks5"
+    port: 443
+    tls: false
+    autoRead:
+    - false
+- ip: "208.180.105.70"
+  port: 8080
+  ping: 3813
+  protocols:
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "210.2.131.196"
+  port: 5678
+  ping: 514
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "210.16.73.80"
+  port: 1080
+  ping: 633
+  protocols:
+  - type: "socks5"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "210.56.245.10"
+  port: 4145
+  ping: 1059
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "210.210.144.99"
+  port: 1081
+  ping: 929
+  protocols:
+  - type: "socks4"
+    port: 1081
+    tls: true
+    autoRead:
+    - false
+- ip: "211.21.125.32"
+  port: 4153
+  ping: 1022
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "211.103.138.117"
+  port: 8000
+  ping: 167
+  protocols:
+  - type: "socks5"
+    port: 8000
+    tls: false
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 8000
+    tls: false
+    autoRead:
+    - false
+- ip: "212.3.105.11"
+  port: 4145
+  ping: 570
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "212.34.239.253"
+  port: 1080
+  ping: 279
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "212.64.72.199"
+  port: 8080
+  ping: 986
+  protocols:
+  - type: "http"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 8080
+    tls: true
+    autoRead:
+    - false
+- ip: "212.77.138.119"
+  port: 1080
+  ping: 1097
+  protocols:
+  - type: "socks5"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "212.92.204.54"
+  port: 80
+  ping: 1254
+  protocols:
+  - type: "https"
+    port: 80
+    tls: true
+    autoRead:
+    - false
+- ip: "212.119.190.214"
+  port: 1090
+  ping: 202
+  protocols:
+  - type: "socks4"
+    port: 1090
+    tls: true
+    autoRead:
+    - false
+- ip: "212.174.171.22"
+  port: 5678
+  ping: 421
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "212.220.13.98"
+  port: 4153
+  ping: 578
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "213.6.33.110"
+  port: 4145
+  ping: 297
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "213.16.81.182"
+  port: 35559
+  ping: 172
+  protocols:
+  - type: "socks4"
+    port: 35559
+    tls: true
+    autoRead:
+    - false
+- ip: "213.19.205.18"
+  port: 54321
+  ping: 228
+  protocols:
+  - type: "socks4"
+    port: 54321
+    tls: true
+    autoRead:
+    - false
+- ip: "213.32.75.44"
+  port: 9300
+  ping: 237
+  protocols:
+  - type: "https"
+    port: 9300
+    tls: true
+    autoRead:
+    - false
+  - type: "https"
+    port: 5566
+    tls: true
+    autoRead:
+    - false
+  - type: "http"
+    port: 5566
+    tls: true
+    autoRead:
+    - false
+- ip: "213.74.191.35"
+  port: 1080
+  ping: 450
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "213.97.98.89"
+  port: 4153
+  ping: 155
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "213.226.11.149"
+  port: 59086
+  ping: 373
+  protocols:
+  - type: "socks4"
+    port: 59086
+    tls: true
+    autoRead:
+    - false
+- ip: "213.226.16.46"
+  port: 51372
+  ping: 200
+  protocols:
+  - type: "socks4"
+    port: 51372
+    tls: true
+    autoRead:
+    - false
+- ip: "213.242.252.137"
+  port: 3128
+  ping: 5254
+  protocols:
+  - type: "http"
+    port: 3128
+    tls: true
+    autoRead:
+    - false
+- ip: "213.250.198.66"
+  port: 4145
+  ping: 357
+  protocols:
+  - type: "socks4"
+    port: 4145
+    tls: true
+    autoRead:
+    - false
+- ip: "216.215.125.178"
+  port: 48324
+  ping: 434
+  protocols:
+  - type: "socks4"
+    port: 48324
+    tls: true
+    autoRead:
+    - false
+- ip: "216.215.126.106"
+  port: 48324
+  ping: 290
+  protocols:
+  - type: "socks4"
+    port: 48324
+    tls: true
+    autoRead:
+    - false
+- ip: "216.218.240.46"
+  port: 48324
+  ping: 585
+  protocols:
+  - type: "socks4"
+    port: 48324
+    tls: true
+    autoRead:
+    - false
+- ip: "217.78.61.96"
+  port: 5678
+  ping: 1249
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "217.170.254.211"
+  port: 3629
+  ping: 676
+  protocols:
+  - type: "socks4"
+    port: 3629
+    tls: true
+    autoRead:
+    - false
+- ip: "217.218.233.164"
+  port: 1080
+  ping: 365
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "218.1.142.130"
+  port: 57114
+  ping: 853
+  protocols:
+  - type: "socks5"
+    port: 57114
+    tls: true
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 57114
+    tls: true
+    autoRead:
+    - false
+- ip: "218.19.140.51"
+  port: 5678
+  ping: 675
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "220.247.171.90"
+  port: 81
+  ping: 3743
+  protocols:
+  - type: "http"
+    port: 81
+    tls: true
+    autoRead:
+    - false
+- ip: "220.249.195.130"
+  port: 1080
+  ping: 602
+  protocols:
+  - type: "socks4"
+    port: 1080
+    tls: true
+    autoRead:
+    - false
+- ip: "221.4.241.198"
+  port: 9091
+  ping: 1001
+  protocols:
+  - type: "socks5"
+    port: 9091
+    tls: false
+    autoRead:
+    - false
+  - type: "socks4"
+    port: 9091
+    tls: false
+    autoRead:
+    - false
+- ip: "221.133.2.26"
+  port: 4153
+  ping: 623
+  protocols:
+  - type: "socks4"
+    port: 4153
+    tls: true
+    autoRead:
+    - false
+- ip: "222.65.228.96"
+  port: 8085
+  ping: 398
+  protocols:
+  - type: "socks4"
+    port: 8085
+    tls: false
+    autoRead:
+    - false
+  - type: "socks5"
+    port: 8085
+    tls: false
+    autoRead:
+    - false
+- ip: "222.69.240.130"
+  port: 8001
+  ping: 4263
+  protocols:
+  - type: "https"
+    port: 8001
+    tls: true
+    autoRead:
+    - false
+- ip: "222.124.34.196"
+  port: 5678
+  ping: 836
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "222.165.215.117"
+  port: 52667
+  ping: 635
+  protocols:
+  - type: "socks4"
+    port: 52667
+    tls: true
+    autoRead:
+    - false
+- ip: "222.216.37.138"
+  port: 808
+  ping: 1479
+  protocols:
+  - type: "https"
+    port: 808
+    tls: true
+    autoRead:
+    - false
+- ip: "222.252.21.100"
+  port: 5678
+  ping: 617
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "222.252.156.61"
+  port: 62694
+  ping: 2686
+  protocols:
+  - type: "http"
+    port: 62694
+    tls: true
+    autoRead:
+    - false
+- ip: "223.25.101.86"
+  port: 5678
+  ping: 868
+  protocols:
+  - type: "socks4"
+    port: 5678
+    tls: true
+    autoRead:
+    - false
+- ip: "223.29.199.144"
+  port: 55443
+  ping: 2778
+  protocols:
+  - type: "http"
+    port: 55443
+    tls: true
+    autoRead:
+    - false
